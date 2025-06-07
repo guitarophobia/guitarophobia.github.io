@@ -1,0 +1,27 @@
+Guitaraxia
+
+Exercise
+  Scale
+    Pattern
+      Jody Fisher の The Complete Jazz Guitar Methid の Beginning で 3NPS のメイジャー･スケールのフィンガリングが紹介されています。
+      この本では各フィンガリングを
+          6 弦の食指をルートとするフィンガリングを Pattern 6/1
+          6 弦の中指をルートとするフィンガリングを Pattern 6/2
+          ･･･
+      のように名付けています.
+      これに倣って 3NPS のフィンガリングを
+          6 弦の食指をルートとするフィンガリングを Pattern 6/1
+          6 弦の中指をルートとするフィンガリングを Pattern 6/2
+          6 弦の薬指をルートとするフィンガリングを Pattern 6/3
+          6 弦の小指をルートとするフィンガリングを Pattern 6/4
+          5 弦の食指をルートとするフィンガリングを Pattern 5/1
+          5 弦の中指をルートとするフィンガリングを Pattern 5/2
+          5 弦の薬指をルートとするフィンガリングを Pattern 5/3
+          5 弦の小指をルートとするフィンガリングを Pattern 5/4
+          4 弦の食指をルートとするフィンガリングを Pattern 4/1
+      のように分類しました.
+      ただし 3NPS の性質上
+          Pattern 6/2 と Pattern 6/3
+          Pattern 5/2 と Pattern 5/3
+      の両方が存在することはありません.
+
