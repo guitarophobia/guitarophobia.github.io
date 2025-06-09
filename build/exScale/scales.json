@@ -1,1 +1,218 @@
-[{"name":"Ionian","abbr":"ion","tones":[{"root":"C","patterns":[]},{"root":"C#","patterns":[]},{"root":"D","patterns":[]},{"root":"D#","patterns":[]},{"root":"E","patterns":[]},{"root":"F","patterns":[]},{"root":"F#","patterns":[]},{"root":"G","patterns":[]},{"root":"G#","patterns":[]},{"root":"A","patterns":[]},{"root":"A#","patterns":[]},{"root":"B","patterns":[]}]},{"name":"Dorian","abbr":"dor","tones":[{"root":"C","patterns":[]},{"root":"C#","patterns":[]},{"root":"D","patterns":[]},{"root":"D#","patterns":[]},{"root":"E","patterns":[]},{"root":"F","patterns":[]},{"root":"F#","patterns":[]},{"root":"G","patterns":[]},{"root":"G#","patterns":[]},{"root":"A","patterns":[]},{"root":"A#","patterns":[]},{"root":"B","patterns":[]}]},{"name":"Phrygian","abbr":"phr","tones":[{"root":"C","patterns":[]},{"root":"C#","patterns":[]},{"root":"D","patterns":[]},{"root":"D#","patterns":[]},{"root":"E","patterns":[]},{"root":"F","patterns":[]},{"root":"F#","patterns":[]},{"root":"G","patterns":[]},{"root":"G#","patterns":[]},{"root":"A","patterns":[]},{"root":"A#","patterns":[]},{"root":"B","patterns":[]}]},{"name":"Lydian","abbr":"lyd","tones":[{"root":"C","patterns":[]},{"root":"C#","patterns":[]},{"root":"D","patterns":[]},{"root":"D#","patterns":[]},{"root":"E","patterns":[]},{"root":"F","patterns":[]},{"root":"F#","patterns":[]},{"root":"G","patterns":[]},{"root":"G#","patterns":[]},{"root":"A","patterns":[]},{"root":"A#","patterns":[]},{"root":"B","patterns":[]}]},{"name":"Mixolydian","abbr":"mixlyd","tones":[{"root":"C","patterns":[]},{"root":"C#","patterns":[]},{"root":"D","patterns":[]},{"root":"D#","patterns":[]},{"root":"E","patterns":[]},{"root":"F","patterns":[]},{"root":"F#","patterns":[]},{"root":"G","patterns":[]},{"root":"G#","patterns":[]},{"root":"A","patterns":[]},{"root":"A#","patterns":[]},{"root":"B","patterns":[]}]},{"name":"Aeolian","abbr":"aeo","tones":[{"root":"C","patterns":[]},{"root":"C#","patterns":[]},{"root":"D","patterns":[]},{"root":"D#","patterns":[]},{"root":"E","patterns":[]},{"root":"F","patterns":[]},{"root":"F#","patterns":[]},{"root":"G","patterns":[]},{"root":"G#","patterns":[]},{"root":"A","patterns":[]},{"root":"A#","patterns":[]},{"root":"B","patterns":[]}]},{"name":"Locrian","abbr":"loc","tones":[{"root":"C","patterns":[]},{"root":"C#","patterns":[]},{"root":"D","patterns":[]},{"root":"D#","patterns":[]},{"root":"E","patterns":[]},{"root":"F","patterns":[]},{"root":"F#","patterns":[]},{"root":"G","patterns":[]},{"root":"G#","patterns":[]},{"root":"A","patterns":[]},{"root":"A#","patterns":[]},{"root":"B","patterns":[]}]},{"name":"Harmonic Minor","abbr":"harmin","tones":[{"root":"C","patterns":[]},{"root":"C#","patterns":[]},{"root":"D","patterns":[]},{"root":"D#","patterns":[]},{"root":"E","patterns":[]},{"root":"F","patterns":[]},{"root":"F#","patterns":[]},{"root":"G","patterns":[]},{"root":"G#","patterns":[]},{"root":"A","patterns":[]},{"root":"A#","patterns":[]},{"root":"B","patterns":[]}]},{"name":"Melodic Minor","abbr":"mermin","tones":[{"root":"C","patterns":[]},{"root":"C#","patterns":[]},{"root":"D","patterns":[]},{"root":"D#","patterns":[]},{"root":"E","patterns":[]},{"root":"F","patterns":[]},{"root":"F#","patterns":[]},{"root":"G","patterns":[]},{"root":"G#","patterns":[]},{"root":"A","patterns":[]},{"root":"A#","patterns":[]},{"root":"B","patterns":[]}]},{"name":"Phrygian Dominant","abbr":"phrdom","tones":[{"root":"C","patterns":[]},{"root":"C#","patterns":[]},{"root":"D","patterns":[]},{"root":"D#","patterns":[]},{"root":"E","patterns":[]},{"root":"F","patterns":[]},{"root":"F#","patterns":[]},{"root":"G","patterns":[]},{"root":"G#","patterns":[]},{"root":"A","patterns":[]},{"root":"A#","patterns":[]},{"root":"B","patterns":[]}]},{"name":"Lydian Dominant","abbr":"lyddom","tones":[{"root":"C","patterns":[]},{"root":"C#","patterns":[]},{"root":"D","patterns":[]},{"root":"D#","patterns":[]},{"root":"E","patterns":[]},{"root":"F","patterns":[]},{"root":"F#","patterns":[]},{"root":"G","patterns":[]},{"root":"G#","patterns":[]},{"root":"A","patterns":[]},{"root":"A#","patterns":[]},{"root":"B","patterns":[]}]},{"name":"Super Locrian","abbr":"suploc","tones":[{"root":"C","patterns":[]},{"root":"C#","patterns":[]},{"root":"D","patterns":[]},{"root":"D#","patterns":[]},{"root":"E","patterns":[]},{"root":"F","patterns":[]},{"root":"F#","patterns":[]},{"root":"G","patterns":[]},{"root":"G#","patterns":[]},{"root":"A","patterns":[]},{"root":"A#","patterns":[]},{"root":"B","patterns":[]}]}]
+[
+  {
+    "name": "Ionian",
+    "abbr": "ion",
+    "tones": [
+      { "root": "C", "patterns": [] },
+      { "root": "C#", "patterns": [] },
+      { "root": "D", "patterns": [] },
+      { "root": "D#", "patterns": [] },
+      { "root": "E", "patterns": [] },
+      { "root": "F", "patterns": [] },
+      { "root": "F#", "patterns": [] },
+      { "root": "G", "patterns": [] },
+      { "root": "G#", "patterns": [] },
+      { "root": "A", "patterns": [] },
+      { "root": "A#", "patterns": [] },
+      { "root": "B", "patterns": [] }
+    ]
+  },
+  {
+    "name": "Dorian",
+    "abbr": "dor",
+    "tones": [
+      { "root": "C", "patterns": [] },
+      { "root": "C#", "patterns": [] },
+      { "root": "D", "patterns": [] },
+      { "root": "D#", "patterns": [] },
+      { "root": "E", "patterns": [] },
+      { "root": "F", "patterns": [] },
+      { "root": "F#", "patterns": [] },
+      { "root": "G", "patterns": [] },
+      { "root": "G#", "patterns": [] },
+      { "root": "A", "patterns": [] },
+      { "root": "A#", "patterns": [] },
+      { "root": "B", "patterns": [] }
+    ]
+  },
+  {
+    "name": "Phrygian",
+    "abbr": "phr",
+    "tones": [
+      { "root": "C", "patterns": [] },
+      { "root": "C#", "patterns": [] },
+      { "root": "D", "patterns": [] },
+      { "root": "D#", "patterns": [] },
+      { "root": "E", "patterns": [] },
+      { "root": "F", "patterns": [] },
+      { "root": "F#", "patterns": [] },
+      { "root": "G", "patterns": [] },
+      { "root": "G#", "patterns": [] },
+      { "root": "A", "patterns": [] },
+      { "root": "A#", "patterns": [] },
+      { "root": "B", "patterns": [] }
+    ]
+  },
+  {
+    "name": "Lydian",
+    "abbr": "lyd",
+    "tones": [
+      { "root": "C", "patterns": [] },
+      { "root": "C#", "patterns": [] },
+      { "root": "D", "patterns": [] },
+      { "root": "D#", "patterns": [] },
+      { "root": "E", "patterns": [] },
+      { "root": "F", "patterns": [] },
+      { "root": "F#", "patterns": [] },
+      { "root": "G", "patterns": [] },
+      { "root": "G#", "patterns": [] },
+      { "root": "A", "patterns": [] },
+      { "root": "A#", "patterns": [] },
+      { "root": "B", "patterns": [] }
+    ]
+  },
+  {
+    "name": "Mixolydian",
+    "abbr": "mixlyd",
+    "tones": [
+      { "root": "C", "patterns": [] },
+      { "root": "C#", "patterns": [] },
+      { "root": "D", "patterns": [] },
+      { "root": "D#", "patterns": [] },
+      { "root": "E", "patterns": [] },
+      { "root": "F", "patterns": [] },
+      { "root": "F#", "patterns": [] },
+      { "root": "G", "patterns": [] },
+      { "root": "G#", "patterns": [] },
+      { "root": "A", "patterns": [] },
+      { "root": "A#", "patterns": [] },
+      { "root": "B", "patterns": [] }
+    ]
+  },
+  {
+    "name": "Aeolian",
+    "abbr": "aeo",
+    "tones": [
+      { "root": "C", "patterns": [] },
+      { "root": "C#", "patterns": [] },
+      { "root": "D", "patterns": [] },
+      { "root": "D#", "patterns": [] },
+      { "root": "E", "patterns": [] },
+      { "root": "F", "patterns": [] },
+      { "root": "F#", "patterns": [] },
+      { "root": "G", "patterns": [] },
+      { "root": "G#", "patterns": [] },
+      { "root": "A", "patterns": [] },
+      { "root": "A#", "patterns": [] },
+      { "root": "B", "patterns": [] }
+    ]
+  },
+  {
+    "name": "Locrian",
+    "abbr": "loc",
+    "tones": [
+      { "root": "C", "patterns": [] },
+      { "root": "C#", "patterns": [] },
+      { "root": "D", "patterns": [] },
+      { "root": "D#", "patterns": [] },
+      { "root": "E", "patterns": [] },
+      { "root": "F", "patterns": [] },
+      { "root": "F#", "patterns": [] },
+      { "root": "G", "patterns": [] },
+      { "root": "G#", "patterns": [] },
+      { "root": "A", "patterns": [] },
+      { "root": "A#", "patterns": [] },
+      { "root": "B", "patterns": [] }
+    ]
+  },
+  {
+    "name": "Harmonic Minor",
+    "abbr": "harmin",
+    "tones": [
+      { "root": "C", "patterns": [] },
+      { "root": "C#", "patterns": [] },
+      { "root": "D", "patterns": [] },
+      { "root": "D#", "patterns": [] },
+      { "root": "E", "patterns": [] },
+      { "root": "F", "patterns": [] },
+      { "root": "F#", "patterns": [] },
+      { "root": "G", "patterns": [] },
+      { "root": "G#", "patterns": [] },
+      { "root": "A", "patterns": [] },
+      { "root": "A#", "patterns": [] },
+      { "root": "B", "patterns": [] }
+    ]
+  },
+  {
+    "name": "Melodic Minor",
+    "abbr": "mermin",
+    "tones": [
+      { "root": "C", "patterns": [] },
+      { "root": "C#", "patterns": [] },
+      { "root": "D", "patterns": [] },
+      { "root": "D#", "patterns": [] },
+      { "root": "E", "patterns": [] },
+      { "root": "F", "patterns": [] },
+      { "root": "F#", "patterns": [] },
+      { "root": "G", "patterns": [] },
+      { "root": "G#", "patterns": [] },
+      { "root": "A", "patterns": [] },
+      { "root": "A#", "patterns": [] },
+      { "root": "B", "patterns": [] }
+    ]
+  },
+  {
+    "name": "Phrygian Dominant",
+    "abbr": "phrdom",
+    "tones": [
+      { "root": "C", "patterns": [] },
+      { "root": "C#", "patterns": [] },
+      { "root": "D", "patterns": [] },
+      { "root": "D#", "patterns": [] },
+      { "root": "E", "patterns": [] },
+      { "root": "F", "patterns": [] },
+      { "root": "F#", "patterns": [] },
+      { "root": "G", "patterns": [] },
+      { "root": "G#", "patterns": [] },
+      { "root": "A", "patterns": [] },
+      { "root": "A#", "patterns": [] },
+      { "root": "B", "patterns": [] }
+    ]
+  },
+  {
+    "name": "Lydian Dominant",
+    "abbr": "lyddom",
+    "tones": [
+      { "root": "C", "patterns": [] },
+      { "root": "C#", "patterns": [] },
+      { "root": "D", "patterns": [] },
+      { "root": "D#", "patterns": [] },
+      { "root": "E", "patterns": [] },
+      { "root": "F", "patterns": [] },
+      { "root": "F#", "patterns": [] },
+      { "root": "G", "patterns": [] },
+      { "root": "G#", "patterns": [] },
+      { "root": "A", "patterns": [] },
+      { "root": "A#", "patterns": [] },
+      { "root": "B", "patterns": [] }
+    ]
+  },
+  {
+    "name": "Super Locrian",
+    "abbr": "suploc",
+    "tones": [
+      { "root": "C", "patterns": [] },
+      { "root": "C#", "patterns": [] },
+      { "root": "D", "patterns": [] },
+      { "root": "D#", "patterns": [] },
+      { "root": "E", "patterns": [] },
+      { "root": "F", "patterns": [] },
+      { "root": "F#", "patterns": [] },
+      { "root": "G", "patterns": [] },
+      { "root": "G#", "patterns": [] },
+      { "root": "A", "patterns": [] },
+      { "root": "A#", "patterns": [] },
+      { "root": "B", "patterns": [] }
+    ]
+  }
+]
