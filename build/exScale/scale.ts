@@ -20,16 +20,24 @@ export class Pattern {
   }
 }
 
+export class Tone {
+  root: string;
+  patterns: Pattern[];
+
+  constructor(root: string) {
+    this.root = root;
+    this.patterns = [];
+  }
+}
+
 export class Scale {
   name: string;
   abbr: string;
-  key: string;
-  patterns: Pattern[];
+  tones: Tone[];
 
-  constructor(name: string, abbr: string, key: string) {
+  constructor(name: string, abbr: string) {
     this.name = name;
     this.abbr = abbr;
-    this.key = key;
-    this.patterns = [];
+    this.tones = [];
   }
 }

@@ -2,7 +2,7 @@
 // > deno --allow-read --allow-write ./build2.ts
 
 import { fileRead, fileWrite } from "../file.ts";
-import { Scale, Pattern, Note } from "./scale.ts";
+import { Scale, Tone, Pattern, Note } from "./scale.ts";
 import { getFretBySyllable } from "../guitar.ts";
 
 function makePattern(
@@ -79,19 +79,21 @@ const build2 = (): void => {
   let scaleTemplates = JSON.parse(data);
 
   for (let template of scaleTemplates) {
+    let scale = new Scale(template.name, template.abbr);
     for (let root of roots) {
+      let tone = new Tone(root);
       console.log(`${template.name} ${root}`);
-      let scale = new Scale(template.name, template.abbr, root);
-      for (let templatePattern of template.patterns) {
+      for (let templatePattern of tone.patterns) {
         let pattern = makePattern(
           root,
           templatePattern.name,
           templatePattern.notes
         );
-        scale.patterns.push(pattern);
+        tone.patterns.push(pattern);
       }
-      scales.push(scale);
+      scale.tones.push(tone);
     }
+    scales.push(scale);
   }
 
   fileWrite("./scales.json", JSON.stringify(scales));

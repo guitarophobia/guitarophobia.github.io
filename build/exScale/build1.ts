@@ -5,7 +5,7 @@ import {fileWrite} from "../file.ts";
 import { Interval, getIntervalByName, intervals, Pitch, getPitchByName } from "../music.ts";
 import { tunings, getFretByMnn } from "../guitar.ts";
 import { ScaleStructure, scaleStructures } from "./scaleStructure.ts";
-import { Scale, Pattern } from "./scale.ts";
+import { Scale, Tone, Pattern } from "./scale.ts";
 
 const makePattern = (scale: ScaleStructure, name: string): Pattern => {
   let pattern: Pattern = { name: name, notes: [] };
@@ -61,15 +61,16 @@ const build1 = (): void => {
   let scaleBases: Scale[] = [];
   for (let scaleStructure of scaleStructures) {
     if (scaleStructure.intervals.length == 7) {
-      let scale = new Scale(scaleStructure.name,scaleStructure.abbr, "X");
-      scale.patterns = [];
-      scale.patterns.push(makePattern(scaleStructure, "6/1"));
-      scale.patterns.push(makePattern(scaleStructure, "6/2"));
-      scale.patterns.push(makePattern(scaleStructure, "6/4"));
-      scale.patterns.push(makePattern(scaleStructure, "5/1"));
-      scale.patterns.push(makePattern(scaleStructure, "5/2"));
-      scale.patterns.push(makePattern(scaleStructure, "5/4"));
-      scale.patterns.push(makePattern(scaleStructure, "4/1"));
+      let scale = new Scale(scaleStructure.name,scaleStructure.abbr);
+      let tone = new Tone("X");
+      tone.patterns.push(makePattern(scaleStructure, "6/1"));
+      tone.patterns.push(makePattern(scaleStructure, "6/2"));
+      tone.patterns.push(makePattern(scaleStructure, "6/4"));
+      tone.patterns.push(makePattern(scaleStructure, "5/1"));
+      tone.patterns.push(makePattern(scaleStructure, "5/2"));
+      tone.patterns.push(makePattern(scaleStructure, "5/4"));
+      tone.patterns.push(makePattern(scaleStructure, "4/1"));
+      scale.tones.push(tone);
       scaleBases.push(scale);
     }
   }
