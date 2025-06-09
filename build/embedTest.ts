@@ -1,4 +1,4 @@
-import {NamedValue} from "./namedValue.ts";
+import {NamedValue} from "./NamedValue.ts";
 import {embed} from "./embed.ts";
 
 let embeddings: NamedValue[] = [

@@ -1,4 +1,4 @@
-import {NamedValue} from "./namedValue.ts";
+import {NamedValue} from "./NamedValue.ts";
 
 const embedStart = "{{";
 const embedEnd = "}}";

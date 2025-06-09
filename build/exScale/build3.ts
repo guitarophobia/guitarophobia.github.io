@@ -1,7 +1,7 @@
 // Run following command in PowerShell
 // > deno --allow-read --allow-write ./build3.ts
 
-import { NamedValue } from "../namedValue.ts";
+import { NamedValue } from "../NamedValue.ts";
 import { fileRead, fileWrite } from "../file.ts";
 import { embed } from "../embed.ts";
 
