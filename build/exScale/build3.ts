@@ -24,7 +24,7 @@ function makePattern(pattern: Pattern): string {
     fb[i] = fbTemplate[i];
   }
 
-  result += pattern.name + "\n";
+  result += "Pattern " + pattern.name + "\n";
   result += "<pre>\n";
 
   for (let note of pattern.notes) {
