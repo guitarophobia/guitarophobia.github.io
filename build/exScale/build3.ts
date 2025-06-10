@@ -6,6 +6,22 @@ import { fileRead, fileWrite } from "../file.ts";
 import { embed } from "../embed.ts";
 import { Pattern } from "./scale.ts";
 
+function adjustCyllable(name: string): string {
+  let adjusted = name;
+  if (adjusted === "C#") {
+    adjusted = "C#/Db";
+  } else if (adjusted === "D#") {
+    adjusted = "D#/Eb";
+  } else if (adjusted === "F#") {
+    adjusted = "F#/Gb";
+  } else if (adjusted === "G#") {
+    adjusted = "G#/Ab";
+  } else if (adjusted === "A#") {
+    adjusted = "A#/Bb";
+  }
+  return adjusted;
+}
+
 const fbTemplate: string[] = [
   "     0     1     2     3     4     5     6     7     8     9     10    11    12    13    14    15",
   "-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-",
@@ -58,7 +74,7 @@ function build3(): void {
         main += makePattern(pattern);
       }
 
-      const title = tone.root + " " + scale.name;
+      const title = adjustCyllable(tone.root) + " " + scale.name;
       const filename =
         scale.abbr + "-" + tone.root.toLowerCase().replace("#", "s") + ".html";
       console.log(filename);

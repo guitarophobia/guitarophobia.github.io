@@ -50,8 +50,9 @@ body {
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
-  font-size: 11pt;
+  font-size: 12pt;
   color: midnightblue;
+  background-color: lightcyan;
 }
 
 body.centered {
@@ -63,7 +64,14 @@ a {
   text-decoration: none;
 }
 
-h1.title {
+p.banner {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 56pt;
+}
+
+h1 {
   font-size: 30pt;
   line-height: 36pt;
   font-family: "Libre Baskerville", serif;
@@ -71,7 +79,7 @@ h1.title {
   font-style: normal;
 }
 
-h2.title {
+h2 {
   font-size: 24pt;
   line-height: 24pt;
   font-family: "Libre Baskerville", serif;
@@ -79,7 +87,7 @@ h2.title {
   font-style: normal;
 }
 
-h3.title {
+h3 {
   font-size: 18pt;
   line-height: 18pt;
   font-family: "Libre Baskerville", serif;
@@ -100,11 +108,11 @@ table {
 }
 
 table.bordered {
-  border: 1px solid black;
+  border: 1px solid midnightblue;
 }
 
 table.bordered td {
-  border: 1px solid black;
+  border: 1px solid midnightblue;
 }
 
 table.centered {

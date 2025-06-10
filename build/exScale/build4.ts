@@ -2,6 +2,22 @@ import { NamedValue } from "../NamedValue.ts";
 import { fileRead, fileWrite } from "../file.ts";
 import { embed } from "../embed.ts";
 
+function adjustCyllable(name: string): string {
+  let adjusted = name;
+  if (adjusted === "C#") {
+    adjusted = "C#/Db";
+  } else if (adjusted === "D#") {
+    adjusted = "D#/Eb";
+  } else if (adjusted === "F#") {
+    adjusted = "F#/Gb";
+  } else if (adjusted === "G#") {
+    adjusted = "G#/Ab";
+  } else if (adjusted === "A#") {
+    adjusted = "A#/Bb";
+  }
+  return adjusted;
+}
+
 function build4(): void {
   const data = fileRead("./scales.json");
   let scales = JSON.parse(data);
@@ -9,13 +25,20 @@ function build4(): void {
   let toc = "";
   for (let scale of scales) {
     toc += "<tr>" + "\n";
-    toc += '<td class="lefted" style="width:28%">' + scale.name + "</td>" + "\n";
+    toc +=
+      '<td class="lefted" style="width:25%">' + scale.name + "</td>" + "\n";
     for (let tone of scale.tones) {
       const filename =
         scale.abbr + "-" + tone.root.toLowerCase().replace("#", "s") + ".html";
       const pathname = "exercises/scales/" + filename;
       console.log(pathname);
-      toc += '<td style="width:6%"><a href="' + pathname + '">' + tone.root + "</a>";
+      let root = adjustCyllable(tone.root);
+      if (root.length === 1) {
+        toc += '<td style="width:5%"><a href="';
+      } else {
+        toc += '<td style="width:8%"><a href="';
+      }
+      toc += pathname + '">' + root + "</a>";
     }
     toc += "</tr>" + "\n";
   }
