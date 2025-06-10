@@ -78,18 +78,20 @@ const build2 = (): void => {
   const data = fileRead("./scaleTemplates.json");
   let scaleTemplates = JSON.parse(data);
 
-  for (let template of scaleTemplates) {
-    let scale = new Scale(template.name, template.abbr);
+  for (let scaleTemplate of scaleTemplates) {
+    let scale = new Scale(scaleTemplate.name, scaleTemplate.abbr);
     for (let root of roots) {
       let tone = new Tone(root);
-      console.log(`${template.name} ${root}`);
-      for (let templatePattern of tone.patterns) {
-        let pattern = makePattern(
-          root,
-          templatePattern.name,
-          templatePattern.notes
-        );
-        tone.patterns.push(pattern);
+      console.log(`${scaleTemplate.name} ${root}`);
+      for (let toneTemplate of scaleTemplate.tones) {
+        for (let patternTemplate of toneTemplate.patterns) {
+          let pattern = makePattern(
+            root,
+            patternTemplate.name,
+            patternTemplate.notes
+          );
+          tone.patterns.push(pattern);
+        }
       }
       scale.tones.push(tone);
     }

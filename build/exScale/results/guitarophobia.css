@@ -99,7 +99,7 @@ table.bordered td {
 }
 
 table.centered {
-  text-align: center;
+  margin: auto;
 }
 
 td.lefted {

@@ -68,7 +68,7 @@ function build3(): void {
         new NamedValue("main", main),
       ];
       const html = embed(htmlTemplate, embeddings);
-      fileWrite("../results/exercises/scales/" + filename, html);
+      fileWrite("results/exercises/scales/" + filename, html);
     }
   }
 }
