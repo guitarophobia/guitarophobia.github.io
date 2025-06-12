@@ -1,0 +1,47 @@
+2025-05-15 (木)
+3NPS の運指の自動生成を TypeScript でやってみようと思いつき, TypeScript の本を読み始める.
+
+2025-05-17 (土)
+GitHub にアカウント fanatoxin, リポジトリー fanatoxin.github.io を作成する.
+この段階では add file が表示されず web からのファイル追加ができない.
+コマンド･プロンプトから git コマンドでファイルを追加する.
+    >git clone https://fanatoxin@github.com/fanatoxin/fanatoxin.github.io.git
+    >cd fanatoxin.github.io
+    >git config --global user.email fanayama@gmail.com
+    >git config --global user.name fanatoxin
+    ここで fanatoxin.github.io に index.html を作成する
+    >git add index.html
+    >git commit -m "#"
+    >git push origin main
+    info: please complete authentication in your browser...
+    ここでログインを要求される
+Deno のインストールは PowerShell から
+    iwr https://deno.land/x/install/install.ps1 -useb | iex
+
+2025-05-20 (火)
+会社のネットワークで
+    >git config --global http.proxy http://proxy.ysk.co.jp:8080
+    >git config --global https.proxy http://proxy.ysk.co.jp:8080
+    >git clone https://fanatoxin@github.com/fanatoxin/fanatoxin.github.io.git
+
+2025-06-04 (水)
+    ScaleBase >>> ScaleStructure
+    ScalePattern >>> Scale
+
+2025-06-07 (土)
+長い逡巡の末に, ギターを練習するプロジェクトを Guitarophobia と名付ける.
+幸い, Gmail と GitHub のアカウントが取れたので, 同じことを繰り返す.
+(1) Gmail アカウントを作成
+    guitarophobia@gmail.com / Carlton 335
+(2) GitHub アカウントを作成
+    guitarophobia / Carlton 335
+(3) GitHub Pages 用のリポジトリーを作成
+    guitarophobia.github.io
+(4) ローカル･ディスクにリポジトリーをクローン
+    >git clone https://guitarophobia@github.com/guitarophobia/guitarophobia.github.io.git
+    >cd guitarophobia.github.io
+    >git config --global user.email guitarophobia@gmail.com
+    >git config --global user.name guitarophobia
+
+2025-06-10 (火)
+ダイアトニック･スケールとメロディック･マイナーのモードのチャートが仕上がり, 公開する.
