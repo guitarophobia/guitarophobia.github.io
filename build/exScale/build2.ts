@@ -19,6 +19,9 @@ function makePattern(
   } else if (name === "6/2") {
     const rootFret = getFretBySyllable(6, root);
     diff = rootFret - templateNotes[1].fret;
+    if (templateNotes[2].fret - templateNotes[1].fret === 1) {
+      pattern.name = "6/3";
+    }
   } else if (name === "6/4") {
     const rootFret = getFretBySyllable(6, root);
     diff = rootFret - templateNotes[2].fret;
@@ -28,6 +31,9 @@ function makePattern(
   } else if (name === "5/2") {
     const rootFret = getFretBySyllable(5, root);
     diff = rootFret - templateNotes[4].fret;
+    if ((templateNotes[5].fret - templateNotes[4].fret) === 1) {
+      pattern.name = "5/3";
+    }
   } else if (name === "5/4") {
     const rootFret = getFretBySyllable(5, root);
     diff = rootFret - templateNotes[5].fret;
@@ -49,7 +55,9 @@ function makePattern(
   for (let i = 0; i < lowerNotes; i++) {
     const lowerNote = pattern.notes[i];
     const upperNote: Note = {
-      str: lowerNote.str, fret: lowerNote.fret+12, degree: lowerNote.degree
+      str: lowerNote.str,
+      fret: lowerNote.fret + 12,
+      degree: lowerNote.degree,
     };
     pattern.notes.push(upperNote);
   }
