@@ -1,1 +1,2066 @@
-[{"name":"Ionian","abbr":"ion","tones":[{"root":"X","patterns":[{"name":"6/1","notes":[{"str":6,"fret":0,"degree":1},{"str":6,"fret":2,"degree":2},{"str":6,"fret":4,"degree":3},{"str":5,"fret":0,"degree":4},{"str":5,"fret":2,"degree":5},{"str":5,"fret":4,"degree":6},{"str":4,"fret":1,"degree":7},{"str":4,"fret":2,"degree":1},{"str":4,"fret":4,"degree":2},{"str":3,"fret":1,"degree":3},{"str":3,"fret":2,"degree":4},{"str":3,"fret":4,"degree":5},{"str":2,"fret":2,"degree":6},{"str":2,"fret":4,"degree":7},{"str":2,"fret":5,"degree":1},{"str":1,"fret":2,"degree":2},{"str":1,"fret":4,"degree":3},{"str":1,"fret":5,"degree":4}]},{"name":"6/2","notes":[{"str":6,"fret":0,"degree":7},{"str":6,"fret":1,"degree":1},{"str":6,"fret":3,"degree":2},{"str":5,"fret":0,"degree":3},{"str":5,"fret":1,"degree":4},{"str":5,"fret":3,"degree":5},{"str":4,"fret":0,"degree":6},{"str":4,"fret":2,"degree":7},{"str":4,"fret":3,"degree":1},{"str":3,"fret":0,"degree":2},{"str":3,"fret":2,"degree":3},{"str":3,"fret":3,"degree":4},{"str":2,"fret":1,"degree":5},{"str":2,"fret":3,"degree":6},{"str":2,"fret":5,"degree":7},{"str":1,"fret":1,"degree":1},{"str":1,"fret":3,"degree":2},{"str":1,"fret":5,"degree":3}]},{"name":"6/4","notes":[{"str":6,"fret":0,"degree":6},{"str":6,"fret":2,"degree":7},{"str":6,"fret":3,"degree":1},{"str":5,"fret":0,"degree":2},{"str":5,"fret":2,"degree":3},{"str":5,"fret":3,"degree":4},{"str":4,"fret":0,"degree":5},{"str":4,"fret":2,"degree":6},{"str":4,"fret":4,"degree":7},{"str":3,"fret":0,"degree":1},{"str":3,"fret":2,"degree":2},{"str":3,"fret":4,"degree":3},{"str":2,"fret":1,"degree":4},{"str":2,"fret":3,"degree":5},{"str":2,"fret":5,"degree":6},{"str":1,"fret":2,"degree":7},{"str":1,"fret":3,"degree":1},{"str":1,"fret":5,"degree":2}]},{"name":"5/1","notes":[{"str":6,"fret":0,"degree":5},{"str":6,"fret":2,"degree":6},{"str":6,"fret":4,"degree":7},{"str":5,"fret":0,"degree":1},{"str":5,"fret":2,"degree":2},{"str":5,"fret":4,"degree":3},{"str":4,"fret":0,"degree":4},{"str":4,"fret":2,"degree":5},{"str":4,"fret":4,"degree":6},{"str":3,"fret":1,"degree":7},{"str":3,"fret":2,"degree":1},{"str":3,"fret":4,"degree":2},{"str":2,"fret":2,"degree":3},{"str":2,"fret":3,"degree":4},{"str":2,"fret":5,"degree":5},{"str":1,"fret":2,"degree":6},{"str":1,"fret":4,"degree":7},{"str":1,"fret":5,"degree":1}]},{"name":"5/2","notes":[{"str":6,"fret":0,"degree":4},{"str":6,"fret":2,"degree":5},{"str":6,"fret":4,"degree":6},{"str":5,"fret":1,"degree":7},{"str":5,"fret":2,"degree":1},{"str":5,"fret":4,"degree":2},{"str":4,"fret":1,"degree":3},{"str":4,"fret":2,"degree":4},{"str":4,"fret":4,"degree":5},{"str":3,"fret":1,"degree":6},{"str":3,"fret":3,"degree":7},{"str":3,"fret":4,"degree":1},{"str":2,"fret":2,"degree":2},{"str":2,"fret":4,"degree":3},{"str":2,"fret":5,"degree":4},{"str":1,"fret":2,"degree":5},{"str":1,"fret":4,"degree":6},{"str":1,"fret":6,"degree":7}]},{"name":"5/4","notes":[{"str":6,"fret":0,"degree":3},{"str":6,"fret":1,"degree":4},{"str":6,"fret":3,"degree":5},{"str":5,"fret":0,"degree":6},{"str":5,"fret":2,"degree":7},{"str":5,"fret":3,"degree":1},{"str":4,"fret":0,"degree":2},{"str":4,"fret":2,"degree":3},{"str":4,"fret":3,"degree":4},{"str":3,"fret":0,"degree":5},{"str":3,"fret":2,"degree":6},{"str":3,"fret":4,"degree":7},{"str":2,"fret":1,"degree":1},{"str":2,"fret":3,"degree":2},{"str":2,"fret":5,"degree":3},{"str":1,"fret":1,"degree":4},{"str":1,"fret":3,"degree":5},{"str":1,"fret":5,"degree":6}]},{"name":"4/1","notes":[{"str":6,"fret":0,"degree":2},{"str":6,"fret":2,"degree":3},{"str":6,"fret":3,"degree":4},{"str":5,"fret":0,"degree":5},{"str":5,"fret":2,"degree":6},{"str":5,"fret":4,"degree":7},{"str":4,"fret":0,"degree":1},{"str":4,"fret":2,"degree":2},{"str":4,"fret":4,"degree":3},{"str":3,"fret":0,"degree":4},{"str":3,"fret":2,"degree":5},{"str":3,"fret":4,"degree":6},{"str":2,"fret":2,"degree":7},{"str":2,"fret":3,"degree":1},{"str":2,"fret":5,"degree":2},{"str":1,"fret":2,"degree":3},{"str":1,"fret":3,"degree":4},{"str":1,"fret":5,"degree":5}]}]}]},{"name":"Dorian","abbr":"dor","tones":[{"root":"X","patterns":[{"name":"6/1","notes":[{"str":6,"fret":0,"degree":1},{"str":6,"fret":2,"degree":2},{"str":6,"fret":3,"degree":3},{"str":5,"fret":0,"degree":4},{"str":5,"fret":2,"degree":5},{"str":5,"fret":4,"degree":6},{"str":4,"fret":0,"degree":7},{"str":4,"fret":2,"degree":1},{"str":4,"fret":4,"degree":2},{"str":3,"fret":0,"degree":3},{"str":3,"fret":2,"degree":4},{"str":3,"fret":4,"degree":5},{"str":2,"fret":2,"degree":6},{"str":2,"fret":3,"degree":7},{"str":2,"fret":5,"degree":1},{"str":1,"fret":2,"degree":2},{"str":1,"fret":3,"degree":3},{"str":1,"fret":5,"degree":4}]},{"name":"6/2","notes":[{"str":6,"fret":0,"degree":7},{"str":6,"fret":2,"degree":1},{"str":6,"fret":4,"degree":2},{"str":5,"fret":0,"degree":3},{"str":5,"fret":2,"degree":4},{"str":5,"fret":4,"degree":5},{"str":4,"fret":1,"degree":6},{"str":4,"fret":2,"degree":7},{"str":4,"fret":4,"degree":1},{"str":3,"fret":1,"degree":2},{"str":3,"fret":2,"degree":3},{"str":3,"fret":4,"degree":4},{"str":2,"fret":2,"degree":5},{"str":2,"fret":4,"degree":6},{"str":2,"fret":5,"degree":7},{"str":1,"fret":2,"degree":1},{"str":1,"fret":4,"degree":2},{"str":1,"fret":5,"degree":3}]},{"name":"6/4","notes":[{"str":6,"fret":0,"degree":6},{"str":6,"fret":1,"degree":7},{"str":6,"fret":3,"degree":1},{"str":5,"fret":0,"degree":2},{"str":5,"fret":1,"degree":3},{"str":5,"fret":3,"degree":4},{"str":4,"fret":0,"degree":5},{"str":4,"fret":2,"degree":6},{"str":4,"fret":3,"degree":7},{"str":3,"fret":0,"degree":1},{"str":3,"fret":2,"degree":2},{"str":3,"fret":3,"degree":3},{"str":2,"fret":1,"degree":4},{"str":2,"fret":3,"degree":5},{"str":2,"fret":5,"degree":6},{"str":1,"fret":1,"degree":7},{"str":1,"fret":3,"degree":1},{"str":1,"fret":5,"degree":2}]},{"name":"5/1","notes":[{"str":6,"fret":0,"degree":5},{"str":6,"fret":2,"degree":6},{"str":6,"fret":3,"degree":7},{"str":5,"fret":0,"degree":1},{"str":5,"fret":2,"degree":2},{"str":5,"fret":3,"degree":3},{"str":4,"fret":0,"degree":4},{"str":4,"fret":2,"degree":5},{"str":4,"fret":4,"degree":6},{"str":3,"fret":0,"degree":7},{"str":3,"fret":2,"degree":1},{"str":3,"fret":4,"degree":2},{"str":2,"fret":1,"degree":3},{"str":2,"fret":3,"degree":4},{"str":2,"fret":5,"degree":5},{"str":1,"fret":2,"degree":6},{"str":1,"fret":3,"degree":7},{"str":1,"fret":5,"degree":1}]},{"name":"5/2","notes":[{"str":6,"fret":0,"degree":4},{"str":6,"fret":2,"degree":5},{"str":6,"fret":4,"degree":6},{"str":5,"fret":0,"degree":7},{"str":5,"fret":2,"degree":1},{"str":5,"fret":4,"degree":2},{"str":4,"fret":0,"degree":3},{"str":4,"fret":2,"degree":4},{"str":4,"fret":4,"degree":5},{"str":3,"fret":1,"degree":6},{"str":3,"fret":2,"degree":7},{"str":3,"fret":4,"degree":1},{"str":2,"fret":2,"degree":2},{"str":2,"fret":3,"degree":3},{"str":2,"fret":5,"degree":4},{"str":1,"fret":2,"degree":5},{"str":1,"fret":4,"degree":6},{"str":1,"fret":5,"degree":7}]},{"name":"5/4","notes":[{"str":6,"fret":0,"degree":3},{"str":6,"fret":2,"degree":4},{"str":6,"fret":4,"degree":5},{"str":5,"fret":1,"degree":6},{"str":5,"fret":2,"degree":7},{"str":5,"fret":4,"degree":1},{"str":4,"fret":1,"degree":2},{"str":4,"fret":2,"degree":3},{"str":4,"fret":4,"degree":4},{"str":3,"fret":1,"degree":5},{"str":3,"fret":3,"degree":6},{"str":3,"fret":4,"degree":7},{"str":2,"fret":2,"degree":1},{"str":2,"fret":4,"degree":2},{"str":2,"fret":5,"degree":3},{"str":1,"fret":2,"degree":4},{"str":1,"fret":4,"degree":5},{"str":1,"fret":6,"degree":6}]},{"name":"4/1","notes":[{"str":6,"fret":0,"degree":2},{"str":6,"fret":1,"degree":3},{"str":6,"fret":3,"degree":4},{"str":5,"fret":0,"degree":5},{"str":5,"fret":2,"degree":6},{"str":5,"fret":3,"degree":7},{"str":4,"fret":0,"degree":1},{"str":4,"fret":2,"degree":2},{"str":4,"fret":3,"degree":3},{"str":3,"fret":0,"degree":4},{"str":3,"fret":2,"degree":5},{"str":3,"fret":4,"degree":6},{"str":2,"fret":1,"degree":7},{"str":2,"fret":3,"degree":1},{"str":2,"fret":5,"degree":2},{"str":1,"fret":1,"degree":3},{"str":1,"fret":3,"degree":4},{"str":1,"fret":5,"degree":5}]}]}]},{"name":"Phrygian","abbr":"phr","tones":[{"root":"X","patterns":[{"name":"6/1","notes":[{"str":6,"fret":0,"degree":1},{"str":6,"fret":1,"degree":2},{"str":6,"fret":3,"degree":3},{"str":5,"fret":0,"degree":4},{"str":5,"fret":2,"degree":5},{"str":5,"fret":3,"degree":6},{"str":4,"fret":0,"degree":7},{"str":4,"fret":2,"degree":1},{"str":4,"fret":3,"degree":2},{"str":3,"fret":0,"degree":3},{"str":3,"fret":2,"degree":4},{"str":3,"fret":4,"degree":5},{"str":2,"fret":1,"degree":6},{"str":2,"fret":3,"degree":7},{"str":2,"fret":5,"degree":1},{"str":1,"fret":1,"degree":2},{"str":1,"fret":3,"degree":3},{"str":1,"fret":5,"degree":4}]},{"name":"6/2","notes":[{"str":6,"fret":0,"degree":7},{"str":6,"fret":2,"degree":1},{"str":6,"fret":3,"degree":2},{"str":5,"fret":0,"degree":3},{"str":5,"fret":2,"degree":4},{"str":5,"fret":4,"degree":5},{"str":4,"fret":0,"degree":6},{"str":4,"fret":2,"degree":7},{"str":4,"fret":4,"degree":1},{"str":3,"fret":0,"degree":2},{"str":3,"fret":2,"degree":3},{"str":3,"fret":4,"degree":4},{"str":2,"fret":2,"degree":5},{"str":2,"fret":3,"degree":6},{"str":2,"fret":5,"degree":7},{"str":1,"fret":2,"degree":1},{"str":1,"fret":3,"degree":2},{"str":1,"fret":5,"degree":3}]},{"name":"6/4","notes":[{"str":6,"fret":0,"degree":6},{"str":6,"fret":2,"degree":7},{"str":6,"fret":4,"degree":1},{"str":5,"fret":0,"degree":2},{"str":5,"fret":2,"degree":3},{"str":5,"fret":4,"degree":4},{"str":4,"fret":1,"degree":5},{"str":4,"fret":2,"degree":6},{"str":4,"fret":4,"degree":7},{"str":3,"fret":1,"degree":1},{"str":3,"fret":2,"degree":2},{"str":3,"fret":4,"degree":3},{"str":2,"fret":2,"degree":4},{"str":2,"fret":4,"degree":5},{"str":2,"fret":5,"degree":6},{"str":1,"fret":2,"degree":7},{"str":1,"fret":4,"degree":1},{"str":1,"fret":5,"degree":2}]},{"name":"5/1","notes":[{"str":6,"fret":0,"degree":5},{"str":6,"fret":1,"degree":6},{"str":6,"fret":3,"degree":7},{"str":5,"fret":0,"degree":1},{"str":5,"fret":1,"degree":2},{"str":5,"fret":3,"degree":3},{"str":4,"fret":0,"degree":4},{"str":4,"fret":2,"degree":5},{"str":4,"fret":3,"degree":6},{"str":3,"fret":0,"degree":7},{"str":3,"fret":2,"degree":1},{"str":3,"fret":3,"degree":2},{"str":2,"fret":1,"degree":3},{"str":2,"fret":3,"degree":4},{"str":2,"fret":5,"degree":5},{"str":1,"fret":1,"degree":6},{"str":1,"fret":3,"degree":7},{"str":1,"fret":5,"degree":1}]},{"name":"5/2","notes":[{"str":6,"fret":0,"degree":4},{"str":6,"fret":2,"degree":5},{"str":6,"fret":3,"degree":6},{"str":5,"fret":0,"degree":7},{"str":5,"fret":2,"degree":1},{"str":5,"fret":3,"degree":2},{"str":4,"fret":0,"degree":3},{"str":4,"fret":2,"degree":4},{"str":4,"fret":4,"degree":5},{"str":3,"fret":0,"degree":6},{"str":3,"fret":2,"degree":7},{"str":3,"fret":4,"degree":1},{"str":2,"fret":1,"degree":2},{"str":2,"fret":3,"degree":3},{"str":2,"fret":5,"degree":4},{"str":1,"fret":2,"degree":5},{"str":1,"fret":3,"degree":6},{"str":1,"fret":5,"degree":7}]},{"name":"5/4","notes":[{"str":6,"fret":0,"degree":3},{"str":6,"fret":2,"degree":4},{"str":6,"fret":4,"degree":5},{"str":5,"fret":0,"degree":6},{"str":5,"fret":2,"degree":7},{"str":5,"fret":4,"degree":1},{"str":4,"fret":0,"degree":2},{"str":4,"fret":2,"degree":3},{"str":4,"fret":4,"degree":4},{"str":3,"fret":1,"degree":5},{"str":3,"fret":2,"degree":6},{"str":3,"fret":4,"degree":7},{"str":2,"fret":2,"degree":1},{"str":2,"fret":3,"degree":2},{"str":2,"fret":5,"degree":3},{"str":1,"fret":2,"degree":4},{"str":1,"fret":4,"degree":5},{"str":1,"fret":5,"degree":6}]},{"name":"4/1","notes":[{"str":6,"fret":0,"degree":2},{"str":6,"fret":2,"degree":3},{"str":6,"fret":4,"degree":4},{"str":5,"fret":1,"degree":5},{"str":5,"fret":2,"degree":6},{"str":5,"fret":4,"degree":7},{"str":4,"fret":1,"degree":1},{"str":4,"fret":2,"degree":2},{"str":4,"fret":4,"degree":3},{"str":3,"fret":1,"degree":4},{"str":3,"fret":3,"degree":5},{"str":3,"fret":4,"degree":6},{"str":2,"fret":2,"degree":7},{"str":2,"fret":4,"degree":1},{"str":2,"fret":5,"degree":2},{"str":1,"fret":2,"degree":3},{"str":1,"fret":4,"degree":4},{"str":1,"fret":6,"degree":5}]}]}]},{"name":"Lydian","abbr":"lyd","tones":[{"root":"X","patterns":[{"name":"6/1","notes":[{"str":6,"fret":0,"degree":1},{"str":6,"fret":2,"degree":2},{"str":6,"fret":4,"degree":3},{"str":5,"fret":1,"degree":4},{"str":5,"fret":2,"degree":5},{"str":5,"fret":4,"degree":6},{"str":4,"fret":1,"degree":7},{"str":4,"fret":2,"degree":1},{"str":4,"fret":4,"degree":2},{"str":3,"fret":1,"degree":3},{"str":3,"fret":3,"degree":4},{"str":3,"fret":4,"degree":5},{"str":2,"fret":2,"degree":6},{"str":2,"fret":4,"degree":7},{"str":2,"fret":5,"degree":1},{"str":1,"fret":2,"degree":2},{"str":1,"fret":4,"degree":3},{"str":1,"fret":6,"degree":4}]},{"name":"6/2","notes":[{"str":6,"fret":0,"degree":7},{"str":6,"fret":1,"degree":1},{"str":6,"fret":3,"degree":2},{"str":5,"fret":0,"degree":3},{"str":5,"fret":2,"degree":4},{"str":5,"fret":3,"degree":5},{"str":4,"fret":0,"degree":6},{"str":4,"fret":2,"degree":7},{"str":4,"fret":3,"degree":1},{"str":3,"fret":0,"degree":2},{"str":3,"fret":2,"degree":3},{"str":3,"fret":4,"degree":4},{"str":2,"fret":1,"degree":5},{"str":2,"fret":3,"degree":6},{"str":2,"fret":5,"degree":7},{"str":1,"fret":1,"degree":1},{"str":1,"fret":3,"degree":2},{"str":1,"fret":5,"degree":3}]},{"name":"6/4","notes":[{"str":6,"fret":0,"degree":6},{"str":6,"fret":2,"degree":7},{"str":6,"fret":3,"degree":1},{"str":5,"fret":0,"degree":2},{"str":5,"fret":2,"degree":3},{"str":5,"fret":4,"degree":4},{"str":4,"fret":0,"degree":5},{"str":4,"fret":2,"degree":6},{"str":4,"fret":4,"degree":7},{"str":3,"fret":0,"degree":1},{"str":3,"fret":2,"degree":2},{"str":3,"fret":4,"degree":3},{"str":2,"fret":2,"degree":4},{"str":2,"fret":3,"degree":5},{"str":2,"fret":5,"degree":6},{"str":1,"fret":2,"degree":7},{"str":1,"fret":3,"degree":1},{"str":1,"fret":5,"degree":2}]},{"name":"5/1","notes":[{"str":6,"fret":0,"degree":5},{"str":6,"fret":2,"degree":6},{"str":6,"fret":4,"degree":7},{"str":5,"fret":0,"degree":1},{"str":5,"fret":2,"degree":2},{"str":5,"fret":4,"degree":3},{"str":4,"fret":1,"degree":4},{"str":4,"fret":2,"degree":5},{"str":4,"fret":4,"degree":6},{"str":3,"fret":1,"degree":7},{"str":3,"fret":2,"degree":1},{"str":3,"fret":4,"degree":2},{"str":2,"fret":2,"degree":3},{"str":2,"fret":4,"degree":4},{"str":2,"fret":5,"degree":5},{"str":1,"fret":2,"degree":6},{"str":1,"fret":4,"degree":7},{"str":1,"fret":5,"degree":1}]},{"name":"5/2","notes":[{"str":6,"fret":0,"degree":4},{"str":6,"fret":1,"degree":5},{"str":6,"fret":3,"degree":6},{"str":5,"fret":0,"degree":7},{"str":5,"fret":1,"degree":1},{"str":5,"fret":3,"degree":2},{"str":4,"fret":0,"degree":3},{"str":4,"fret":2,"degree":4},{"str":4,"fret":3,"degree":5},{"str":3,"fret":0,"degree":6},{"str":3,"fret":2,"degree":7},{"str":3,"fret":3,"degree":1},{"str":2,"fret":1,"degree":2},{"str":2,"fret":3,"degree":3},{"str":2,"fret":5,"degree":4},{"str":1,"fret":1,"degree":5},{"str":1,"fret":3,"degree":6},{"str":1,"fret":5,"degree":7}]},{"name":"5/4","notes":[{"str":6,"fret":0,"degree":3},{"str":6,"fret":2,"degree":4},{"str":6,"fret":3,"degree":5},{"str":5,"fret":0,"degree":6},{"str":5,"fret":2,"degree":7},{"str":5,"fret":3,"degree":1},{"str":4,"fret":0,"degree":2},{"str":4,"fret":2,"degree":3},{"str":4,"fret":4,"degree":4},{"str":3,"fret":0,"degree":5},{"str":3,"fret":2,"degree":6},{"str":3,"fret":4,"degree":7},{"str":2,"fret":1,"degree":1},{"str":2,"fret":3,"degree":2},{"str":2,"fret":5,"degree":3},{"str":1,"fret":2,"degree":4},{"str":1,"fret":3,"degree":5},{"str":1,"fret":5,"degree":6}]},{"name":"4/1","notes":[{"str":6,"fret":0,"degree":2},{"str":6,"fret":2,"degree":3},{"str":6,"fret":4,"degree":4},{"str":5,"fret":0,"degree":5},{"str":5,"fret":2,"degree":6},{"str":5,"fret":4,"degree":7},{"str":4,"fret":0,"degree":1},{"str":4,"fret":2,"degree":2},{"str":4,"fret":4,"degree":3},{"str":3,"fret":1,"degree":4},{"str":3,"fret":2,"degree":5},{"str":3,"fret":4,"degree":6},{"str":2,"fret":2,"degree":7},{"str":2,"fret":3,"degree":1},{"str":2,"fret":5,"degree":2},{"str":1,"fret":2,"degree":3},{"str":1,"fret":4,"degree":4},{"str":1,"fret":5,"degree":5}]}]}]},{"name":"Mixolydian","abbr":"mixlyd","tones":[{"root":"X","patterns":[{"name":"6/1","notes":[{"str":6,"fret":0,"degree":1},{"str":6,"fret":2,"degree":2},{"str":6,"fret":4,"degree":3},{"str":5,"fret":0,"degree":4},{"str":5,"fret":2,"degree":5},{"str":5,"fret":4,"degree":6},{"str":4,"fret":0,"degree":7},{"str":4,"fret":2,"degree":1},{"str":4,"fret":4,"degree":2},{"str":3,"fret":1,"degree":3},{"str":3,"fret":2,"degree":4},{"str":3,"fret":4,"degree":5},{"str":2,"fret":2,"degree":6},{"str":2,"fret":3,"degree":7},{"str":2,"fret":5,"degree":1},{"str":1,"fret":2,"degree":2},{"str":1,"fret":4,"degree":3},{"str":1,"fret":5,"degree":4}]},{"name":"6/2","notes":[{"str":6,"fret":0,"degree":7},{"str":6,"fret":2,"degree":1},{"str":6,"fret":4,"degree":2},{"str":5,"fret":1,"degree":3},{"str":5,"fret":2,"degree":4},{"str":5,"fret":4,"degree":5},{"str":4,"fret":1,"degree":6},{"str":4,"fret":2,"degree":7},{"str":4,"fret":4,"degree":1},{"str":3,"fret":1,"degree":2},{"str":3,"fret":3,"degree":3},{"str":3,"fret":4,"degree":4},{"str":2,"fret":2,"degree":5},{"str":2,"fret":4,"degree":6},{"str":2,"fret":5,"degree":7},{"str":1,"fret":2,"degree":1},{"str":1,"fret":4,"degree":2},{"str":1,"fret":6,"degree":3}]},{"name":"6/4","notes":[{"str":6,"fret":0,"degree":6},{"str":6,"fret":1,"degree":7},{"str":6,"fret":3,"degree":1},{"str":5,"fret":0,"degree":2},{"str":5,"fret":2,"degree":3},{"str":5,"fret":3,"degree":4},{"str":4,"fret":0,"degree":5},{"str":4,"fret":2,"degree":6},{"str":4,"fret":3,"degree":7},{"str":3,"fret":0,"degree":1},{"str":3,"fret":2,"degree":2},{"str":3,"fret":4,"degree":3},{"str":2,"fret":1,"degree":4},{"str":2,"fret":3,"degree":5},{"str":2,"fret":5,"degree":6},{"str":1,"fret":1,"degree":7},{"str":1,"fret":3,"degree":1},{"str":1,"fret":5,"degree":2}]},{"name":"5/1","notes":[{"str":6,"fret":0,"degree":5},{"str":6,"fret":2,"degree":6},{"str":6,"fret":3,"degree":7},{"str":5,"fret":0,"degree":1},{"str":5,"fret":2,"degree":2},{"str":5,"fret":4,"degree":3},{"str":4,"fret":0,"degree":4},{"str":4,"fret":2,"degree":5},{"str":4,"fret":4,"degree":6},{"str":3,"fret":0,"degree":7},{"str":3,"fret":2,"degree":1},{"str":3,"fret":4,"degree":2},{"str":2,"fret":2,"degree":3},{"str":2,"fret":3,"degree":4},{"str":2,"fret":5,"degree":5},{"str":1,"fret":2,"degree":6},{"str":1,"fret":3,"degree":7},{"str":1,"fret":5,"degree":1}]},{"name":"5/2","notes":[{"str":6,"fret":0,"degree":4},{"str":6,"fret":2,"degree":5},{"str":6,"fret":4,"degree":6},{"str":5,"fret":0,"degree":7},{"str":5,"fret":2,"degree":1},{"str":5,"fret":4,"degree":2},{"str":4,"fret":1,"degree":3},{"str":4,"fret":2,"degree":4},{"str":4,"fret":4,"degree":5},{"str":3,"fret":1,"degree":6},{"str":3,"fret":2,"degree":7},{"str":3,"fret":4,"degree":1},{"str":2,"fret":2,"degree":2},{"str":2,"fret":4,"degree":3},{"str":2,"fret":5,"degree":4},{"str":1,"fret":2,"degree":5},{"str":1,"fret":4,"degree":6},{"str":1,"fret":5,"degree":7}]},{"name":"5/4","notes":[{"str":6,"fret":0,"degree":3},{"str":6,"fret":1,"degree":4},{"str":6,"fret":3,"degree":5},{"str":5,"fret":0,"degree":6},{"str":5,"fret":1,"degree":7},{"str":5,"fret":3,"degree":1},{"str":4,"fret":0,"degree":2},{"str":4,"fret":2,"degree":3},{"str":4,"fret":3,"degree":4},{"str":3,"fret":0,"degree":5},{"str":3,"fret":2,"degree":6},{"str":3,"fret":3,"degree":7},{"str":2,"fret":1,"degree":1},{"str":2,"fret":3,"degree":2},{"str":2,"fret":5,"degree":3},{"str":1,"fret":1,"degree":4},{"str":1,"fret":3,"degree":5},{"str":1,"fret":5,"degree":6}]},{"name":"4/1","notes":[{"str":6,"fret":0,"degree":2},{"str":6,"fret":2,"degree":3},{"str":6,"fret":3,"degree":4},{"str":5,"fret":0,"degree":5},{"str":5,"fret":2,"degree":6},{"str":5,"fret":3,"degree":7},{"str":4,"fret":0,"degree":1},{"str":4,"fret":2,"degree":2},{"str":4,"fret":4,"degree":3},{"str":3,"fret":0,"degree":4},{"str":3,"fret":2,"degree":5},{"str":3,"fret":4,"degree":6},{"str":2,"fret":1,"degree":7},{"str":2,"fret":3,"degree":1},{"str":2,"fret":5,"degree":2},{"str":1,"fret":2,"degree":3},{"str":1,"fret":3,"degree":4},{"str":1,"fret":5,"degree":5}]}]}]},{"name":"Aeolian","abbr":"aeo","tones":[{"root":"X","patterns":[{"name":"6/1","notes":[{"str":6,"fret":0,"degree":1},{"str":6,"fret":2,"degree":2},{"str":6,"fret":3,"degree":3},{"str":5,"fret":0,"degree":4},{"str":5,"fret":2,"degree":5},{"str":5,"fret":3,"degree":6},{"str":4,"fret":0,"degree":7},{"str":4,"fret":2,"degree":1},{"str":4,"fret":4,"degree":2},{"str":3,"fret":0,"degree":3},{"str":3,"fret":2,"degree":4},{"str":3,"fret":4,"degree":5},{"str":2,"fret":1,"degree":6},{"str":2,"fret":3,"degree":7},{"str":2,"fret":5,"degree":1},{"str":1,"fret":2,"degree":2},{"str":1,"fret":3,"degree":3},{"str":1,"fret":5,"degree":4}]},{"name":"6/2","notes":[{"str":6,"fret":0,"degree":7},{"str":6,"fret":2,"degree":1},{"str":6,"fret":4,"degree":2},{"str":5,"fret":0,"degree":3},{"str":5,"fret":2,"degree":4},{"str":5,"fret":4,"degree":5},{"str":4,"fret":0,"degree":6},{"str":4,"fret":2,"degree":7},{"str":4,"fret":4,"degree":1},{"str":3,"fret":1,"degree":2},{"str":3,"fret":2,"degree":3},{"str":3,"fret":4,"degree":4},{"str":2,"fret":2,"degree":5},{"str":2,"fret":3,"degree":6},{"str":2,"fret":5,"degree":7},{"str":1,"fret":2,"degree":1},{"str":1,"fret":4,"degree":2},{"str":1,"fret":5,"degree":3}]},{"name":"6/4","notes":[{"str":6,"fret":0,"degree":6},{"str":6,"fret":2,"degree":7},{"str":6,"fret":4,"degree":1},{"str":5,"fret":1,"degree":2},{"str":5,"fret":2,"degree":3},{"str":5,"fret":4,"degree":4},{"str":4,"fret":1,"degree":5},{"str":4,"fret":2,"degree":6},{"str":4,"fret":4,"degree":7},{"str":3,"fret":1,"degree":1},{"str":3,"fret":3,"degree":2},{"str":3,"fret":4,"degree":3},{"str":2,"fret":2,"degree":4},{"str":2,"fret":4,"degree":5},{"str":2,"fret":5,"degree":6},{"str":1,"fret":2,"degree":7},{"str":1,"fret":4,"degree":1},{"str":1,"fret":6,"degree":2}]},{"name":"5/1","notes":[{"str":6,"fret":0,"degree":5},{"str":6,"fret":1,"degree":6},{"str":6,"fret":3,"degree":7},{"str":5,"fret":0,"degree":1},{"str":5,"fret":2,"degree":2},{"str":5,"fret":3,"degree":3},{"str":4,"fret":0,"degree":4},{"str":4,"fret":2,"degree":5},{"str":4,"fret":3,"degree":6},{"str":3,"fret":0,"degree":7},{"str":3,"fret":2,"degree":1},{"str":3,"fret":4,"degree":2},{"str":2,"fret":1,"degree":3},{"str":2,"fret":3,"degree":4},{"str":2,"fret":5,"degree":5},{"str":1,"fret":1,"degree":6},{"str":1,"fret":3,"degree":7},{"str":1,"fret":5,"degree":1}]},{"name":"5/2","notes":[{"str":6,"fret":0,"degree":4},{"str":6,"fret":2,"degree":5},{"str":6,"fret":3,"degree":6},{"str":5,"fret":0,"degree":7},{"str":5,"fret":2,"degree":1},{"str":5,"fret":4,"degree":2},{"str":4,"fret":0,"degree":3},{"str":4,"fret":2,"degree":4},{"str":4,"fret":4,"degree":5},{"str":3,"fret":0,"degree":6},{"str":3,"fret":2,"degree":7},{"str":3,"fret":4,"degree":1},{"str":2,"fret":2,"degree":2},{"str":2,"fret":3,"degree":3},{"str":2,"fret":5,"degree":4},{"str":1,"fret":2,"degree":5},{"str":1,"fret":3,"degree":6},{"str":1,"fret":5,"degree":7}]},{"name":"5/4","notes":[{"str":6,"fret":0,"degree":3},{"str":6,"fret":2,"degree":4},{"str":6,"fret":4,"degree":5},{"str":5,"fret":0,"degree":6},{"str":5,"fret":2,"degree":7},{"str":5,"fret":4,"degree":1},{"str":4,"fret":1,"degree":2},{"str":4,"fret":2,"degree":3},{"str":4,"fret":4,"degree":4},{"str":3,"fret":1,"degree":5},{"str":3,"fret":2,"degree":6},{"str":3,"fret":4,"degree":7},{"str":2,"fret":2,"degree":1},{"str":2,"fret":4,"degree":2},{"str":2,"fret":5,"degree":3},{"str":1,"fret":2,"degree":4},{"str":1,"fret":4,"degree":5},{"str":1,"fret":5,"degree":6}]},{"name":"4/1","notes":[{"str":6,"fret":0,"degree":2},{"str":6,"fret":1,"degree":3},{"str":6,"fret":3,"degree":4},{"str":5,"fret":0,"degree":5},{"str":5,"fret":1,"degree":6},{"str":5,"fret":3,"degree":7},{"str":4,"fret":0,"degree":1},{"str":4,"fret":2,"degree":2},{"str":4,"fret":3,"degree":3},{"str":3,"fret":0,"degree":4},{"str":3,"fret":2,"degree":5},{"str":3,"fret":3,"degree":6},{"str":2,"fret":1,"degree":7},{"str":2,"fret":3,"degree":1},{"str":2,"fret":5,"degree":2},{"str":1,"fret":1,"degree":3},{"str":1,"fret":3,"degree":4},{"str":1,"fret":5,"degree":5}]}]}]},{"name":"Locrian","abbr":"loc","tones":[{"root":"X","patterns":[{"name":"6/1","notes":[{"str":6,"fret":0,"degree":1},{"str":6,"fret":1,"degree":2},{"str":6,"fret":3,"degree":3},{"str":5,"fret":0,"degree":4},{"str":5,"fret":1,"degree":5},{"str":5,"fret":3,"degree":6},{"str":4,"fret":0,"degree":7},{"str":4,"fret":2,"degree":1},{"str":4,"fret":3,"degree":2},{"str":3,"fret":0,"degree":3},{"str":3,"fret":2,"degree":4},{"str":3,"fret":3,"degree":5},{"str":2,"fret":1,"degree":6},{"str":2,"fret":3,"degree":7},{"str":2,"fret":5,"degree":1},{"str":1,"fret":1,"degree":2},{"str":1,"fret":3,"degree":3},{"str":1,"fret":5,"degree":4}]},{"name":"6/2","notes":[{"str":6,"fret":0,"degree":7},{"str":6,"fret":2,"degree":1},{"str":6,"fret":3,"degree":2},{"str":5,"fret":0,"degree":3},{"str":5,"fret":2,"degree":4},{"str":5,"fret":3,"degree":5},{"str":4,"fret":0,"degree":6},{"str":4,"fret":2,"degree":7},{"str":4,"fret":4,"degree":1},{"str":3,"fret":0,"degree":2},{"str":3,"fret":2,"degree":3},{"str":3,"fret":4,"degree":4},{"str":2,"fret":1,"degree":5},{"str":2,"fret":3,"degree":6},{"str":2,"fret":5,"degree":7},{"str":1,"fret":2,"degree":1},{"str":1,"fret":3,"degree":2},{"str":1,"fret":5,"degree":3}]},{"name":"6/4","notes":[{"str":6,"fret":0,"degree":6},{"str":6,"fret":2,"degree":7},{"str":6,"fret":4,"degree":1},{"str":5,"fret":0,"degree":2},{"str":5,"fret":2,"degree":3},{"str":5,"fret":4,"degree":4},{"str":4,"fret":0,"degree":5},{"str":4,"fret":2,"degree":6},{"str":4,"fret":4,"degree":7},{"str":3,"fret":1,"degree":1},{"str":3,"fret":2,"degree":2},{"str":3,"fret":4,"degree":3},{"str":2,"fret":2,"degree":4},{"str":2,"fret":3,"degree":5},{"str":2,"fret":5,"degree":6},{"str":1,"fret":2,"degree":7},{"str":1,"fret":4,"degree":1},{"str":1,"fret":5,"degree":2}]},{"name":"5/1","notes":[{"str":6,"fret":0,"degree":5},{"str":6,"fret":2,"degree":6},{"str":6,"fret":4,"degree":7},{"str":5,"fret":1,"degree":1},{"str":5,"fret":2,"degree":2},{"str":5,"fret":4,"degree":3},{"str":4,"fret":1,"degree":4},{"str":4,"fret":2,"degree":5},{"str":4,"fret":4,"degree":6},{"str":3,"fret":1,"degree":7},{"str":3,"fret":3,"degree":1},{"str":3,"fret":4,"degree":2},{"str":2,"fret":2,"degree":3},{"str":2,"fret":4,"degree":4},{"str":2,"fret":5,"degree":5},{"str":1,"fret":2,"degree":6},{"str":1,"fret":4,"degree":7},{"str":1,"fret":6,"degree":1}]},{"name":"5/2","notes":[{"str":6,"fret":0,"degree":4},{"str":6,"fret":1,"degree":5},{"str":6,"fret":3,"degree":6},{"str":5,"fret":0,"degree":7},{"str":5,"fret":2,"degree":1},{"str":5,"fret":3,"degree":2},{"str":4,"fret":0,"degree":3},{"str":4,"fret":2,"degree":4},{"str":4,"fret":3,"degree":5},{"str":3,"fret":0,"degree":6},{"str":3,"fret":2,"degree":7},{"str":3,"fret":4,"degree":1},{"str":2,"fret":1,"degree":2},{"str":2,"fret":3,"degree":3},{"str":2,"fret":5,"degree":4},{"str":1,"fret":1,"degree":5},{"str":1,"fret":3,"degree":6},{"str":1,"fret":5,"degree":7}]},{"name":"5/4","notes":[{"str":6,"fret":0,"degree":3},{"str":6,"fret":2,"degree":4},{"str":6,"fret":3,"degree":5},{"str":5,"fret":0,"degree":6},{"str":5,"fret":2,"degree":7},{"str":5,"fret":4,"degree":1},{"str":4,"fret":0,"degree":2},{"str":4,"fret":2,"degree":3},{"str":4,"fret":4,"degree":4},{"str":3,"fret":0,"degree":5},{"str":3,"fret":2,"degree":6},{"str":3,"fret":4,"degree":7},{"str":2,"fret":2,"degree":1},{"str":2,"fret":3,"degree":2},{"str":2,"fret":5,"degree":3},{"str":1,"fret":2,"degree":4},{"str":1,"fret":3,"degree":5},{"str":1,"fret":5,"degree":6}]},{"name":"4/1","notes":[{"str":6,"fret":0,"degree":2},{"str":6,"fret":2,"degree":3},{"str":6,"fret":4,"degree":4},{"str":5,"fret":0,"degree":5},{"str":5,"fret":2,"degree":6},{"str":5,"fret":4,"degree":7},{"str":4,"fret":1,"degree":1},{"str":4,"fret":2,"degree":2},{"str":4,"fret":4,"degree":3},{"str":3,"fret":1,"degree":4},{"str":3,"fret":2,"degree":5},{"str":3,"fret":4,"degree":6},{"str":2,"fret":2,"degree":7},{"str":2,"fret":4,"degree":1},{"str":2,"fret":5,"degree":2},{"str":1,"fret":2,"degree":3},{"str":1,"fret":4,"degree":4},{"str":1,"fret":5,"degree":5}]}]}]},{"name":"Harmonic Minor","abbr":"harmin","tones":[{"root":"X","patterns":[{"name":"6/1","notes":[{"str":6,"fret":0,"degree":1},{"str":6,"fret":2,"degree":2},{"str":6,"fret":3,"degree":3},{"str":5,"fret":0,"degree":4},{"str":5,"fret":2,"degree":5},{"str":5,"fret":3,"degree":6},{"str":4,"fret":1,"degree":7},{"str":4,"fret":2,"degree":1},{"str":4,"fret":4,"degree":2},{"str":3,"fret":0,"degree":3},{"str":3,"fret":2,"degree":4},{"str":3,"fret":4,"degree":5},{"str":2,"fret":1,"degree":6},{"str":2,"fret":4,"degree":7},{"str":2,"fret":5,"degree":1},{"str":1,"fret":2,"degree":2},{"str":1,"fret":3,"degree":3},{"str":1,"fret":5,"degree":4}]},{"name":"6/2","notes":[{"str":6,"fret":0,"degree":7},{"str":6,"fret":1,"degree":1},{"str":6,"fret":3,"degree":2},{"str":5,"fret":-1,"degree":3},{"str":5,"fret":1,"degree":4},{"str":5,"fret":3,"degree":5},{"str":4,"fret":-1,"degree":6},{"str":4,"fret":2,"degree":7},{"str":4,"fret":3,"degree":1},{"str":3,"fret":0,"degree":2},{"str":3,"fret":1,"degree":3},{"str":3,"fret":3,"degree":4},{"str":2,"fret":1,"degree":5},{"str":2,"fret":2,"degree":6},{"str":2,"fret":5,"degree":7},{"str":1,"fret":1,"degree":1},{"str":1,"fret":3,"degree":2},{"str":1,"fret":4,"degree":3}]},{"name":"6/4","notes":[{"str":6,"fret":0,"degree":6},{"str":6,"fret":3,"degree":7},{"str":6,"fret":4,"degree":1},{"str":5,"fret":1,"degree":2},{"str":5,"fret":2,"degree":3},{"str":5,"fret":4,"degree":4},{"str":4,"fret":1,"degree":5},{"str":4,"fret":2,"degree":6},{"str":4,"fret":5,"degree":7},{"str":3,"fret":1,"degree":1},{"str":3,"fret":3,"degree":2},{"str":3,"fret":4,"degree":3},{"str":2,"fret":2,"degree":4},{"str":2,"fret":4,"degree":5},{"str":2,"fret":5,"degree":6},{"str":1,"fret":3,"degree":7},{"str":1,"fret":4,"degree":1},{"str":1,"fret":6,"degree":2}]},{"name":"5/1","notes":[{"str":6,"fret":0,"degree":5},{"str":6,"fret":1,"degree":6},{"str":6,"fret":4,"degree":7},{"str":5,"fret":0,"degree":1},{"str":5,"fret":2,"degree":2},{"str":5,"fret":3,"degree":3},{"str":4,"fret":0,"degree":4},{"str":4,"fret":2,"degree":5},{"str":4,"fret":3,"degree":6},{"str":3,"fret":1,"degree":7},{"str":3,"fret":2,"degree":1},{"str":3,"fret":4,"degree":2},{"str":2,"fret":1,"degree":3},{"str":2,"fret":3,"degree":4},{"str":2,"fret":5,"degree":5},{"str":1,"fret":1,"degree":6},{"str":1,"fret":4,"degree":7},{"str":1,"fret":5,"degree":1}]},{"name":"5/2","notes":[{"str":6,"fret":0,"degree":4},{"str":6,"fret":2,"degree":5},{"str":6,"fret":3,"degree":6},{"str":5,"fret":1,"degree":7},{"str":5,"fret":2,"degree":1},{"str":5,"fret":4,"degree":2},{"str":4,"fret":0,"degree":3},{"str":4,"fret":2,"degree":4},{"str":4,"fret":4,"degree":5},{"str":3,"fret":0,"degree":6},{"str":3,"fret":3,"degree":7},{"str":3,"fret":4,"degree":1},{"str":2,"fret":2,"degree":2},{"str":2,"fret":3,"degree":3},{"str":2,"fret":5,"degree":4},{"str":1,"fret":2,"degree":5},{"str":1,"fret":3,"degree":6},{"str":1,"fret":6,"degree":7}]},{"name":"5/4","notes":[{"str":6,"fret":0,"degree":3},{"str":6,"fret":2,"degree":4},{"str":6,"fret":4,"degree":5},{"str":5,"fret":0,"degree":6},{"str":5,"fret":3,"degree":7},{"str":5,"fret":4,"degree":1},{"str":4,"fret":1,"degree":2},{"str":4,"fret":2,"degree":3},{"str":4,"fret":4,"degree":4},{"str":3,"fret":1,"degree":5},{"str":3,"fret":2,"degree":6},{"str":3,"fret":5,"degree":7},{"str":2,"fret":2,"degree":1},{"str":2,"fret":4,"degree":2},{"str":2,"fret":5,"degree":3},{"str":1,"fret":2,"degree":4},{"str":1,"fret":4,"degree":5},{"str":1,"fret":5,"degree":6}]},{"name":"4/1","notes":[{"str":6,"fret":0,"degree":2},{"str":6,"fret":1,"degree":3},{"str":6,"fret":3,"degree":4},{"str":5,"fret":0,"degree":5},{"str":5,"fret":1,"degree":6},{"str":5,"fret":4,"degree":7},{"str":4,"fret":0,"degree":1},{"str":4,"fret":2,"degree":2},{"str":4,"fret":3,"degree":3},{"str":3,"fret":0,"degree":4},{"str":3,"fret":2,"degree":5},{"str":3,"fret":3,"degree":6},{"str":2,"fret":2,"degree":7},{"str":2,"fret":3,"degree":1},{"str":2,"fret":5,"degree":2},{"str":1,"fret":1,"degree":3},{"str":1,"fret":3,"degree":4},{"str":1,"fret":5,"degree":5}]}]}]},{"name":"Melodic Minor","abbr":"mermin","tones":[{"root":"X","patterns":[{"name":"6/1","notes":[{"str":6,"fret":0,"degree":1},{"str":6,"fret":2,"degree":2},{"str":6,"fret":3,"degree":3},{"str":5,"fret":0,"degree":4},{"str":5,"fret":2,"degree":5},{"str":5,"fret":4,"degree":6},{"str":4,"fret":1,"degree":7},{"str":4,"fret":2,"degree":1},{"str":4,"fret":4,"degree":2},{"str":3,"fret":0,"degree":3},{"str":3,"fret":2,"degree":4},{"str":3,"fret":4,"degree":5},{"str":2,"fret":2,"degree":6},{"str":2,"fret":4,"degree":7},{"str":2,"fret":5,"degree":1},{"str":1,"fret":2,"degree":2},{"str":1,"fret":3,"degree":3},{"str":1,"fret":5,"degree":4}]},{"name":"6/2","notes":[{"str":6,"fret":0,"degree":7},{"str":6,"fret":1,"degree":1},{"str":6,"fret":3,"degree":2},{"str":5,"fret":-1,"degree":3},{"str":5,"fret":1,"degree":4},{"str":5,"fret":3,"degree":5},{"str":4,"fret":0,"degree":6},{"str":4,"fret":2,"degree":7},{"str":4,"fret":3,"degree":1},{"str":3,"fret":0,"degree":2},{"str":3,"fret":1,"degree":3},{"str":3,"fret":3,"degree":4},{"str":2,"fret":1,"degree":5},{"str":2,"fret":3,"degree":6},{"str":2,"fret":5,"degree":7},{"str":1,"fret":1,"degree":1},{"str":1,"fret":3,"degree":2},{"str":1,"fret":4,"degree":3}]},{"name":"6/4","notes":[{"str":6,"fret":0,"degree":6},{"str":6,"fret":2,"degree":7},{"str":6,"fret":3,"degree":1},{"str":5,"fret":0,"degree":2},{"str":5,"fret":1,"degree":3},{"str":5,"fret":3,"degree":4},{"str":4,"fret":0,"degree":5},{"str":4,"fret":2,"degree":6},{"str":4,"fret":4,"degree":7},{"str":3,"fret":0,"degree":1},{"str":3,"fret":2,"degree":2},{"str":3,"fret":3,"degree":3},{"str":2,"fret":1,"degree":4},{"str":2,"fret":3,"degree":5},{"str":2,"fret":5,"degree":6},{"str":1,"fret":2,"degree":7},{"str":1,"fret":3,"degree":1},{"str":1,"fret":5,"degree":2}]},{"name":"5/1","notes":[{"str":6,"fret":0,"degree":5},{"str":6,"fret":2,"degree":6},{"str":6,"fret":4,"degree":7},{"str":5,"fret":0,"degree":1},{"str":5,"fret":2,"degree":2},{"str":5,"fret":3,"degree":3},{"str":4,"fret":0,"degree":4},{"str":4,"fret":2,"degree":5},{"str":4,"fret":4,"degree":6},{"str":3,"fret":1,"degree":7},{"str":3,"fret":2,"degree":1},{"str":3,"fret":4,"degree":2},{"str":2,"fret":1,"degree":3},{"str":2,"fret":3,"degree":4},{"str":2,"fret":5,"degree":5},{"str":1,"fret":2,"degree":6},{"str":1,"fret":4,"degree":7},{"str":1,"fret":5,"degree":1}]},{"name":"5/2","notes":[{"str":6,"fret":0,"degree":4},{"str":6,"fret":2,"degree":5},{"str":6,"fret":4,"degree":6},{"str":5,"fret":1,"degree":7},{"str":5,"fret":2,"degree":1},{"str":5,"fret":4,"degree":2},{"str":4,"fret":0,"degree":3},{"str":4,"fret":2,"degree":4},{"str":4,"fret":4,"degree":5},{"str":3,"fret":1,"degree":6},{"str":3,"fret":3,"degree":7},{"str":3,"fret":4,"degree":1},{"str":2,"fret":2,"degree":2},{"str":2,"fret":3,"degree":3},{"str":2,"fret":5,"degree":4},{"str":1,"fret":2,"degree":5},{"str":1,"fret":4,"degree":6},{"str":1,"fret":6,"degree":7}]},{"name":"5/4","notes":[{"str":6,"fret":0,"degree":3},{"str":6,"fret":2,"degree":4},{"str":6,"fret":4,"degree":5},{"str":5,"fret":1,"degree":6},{"str":5,"fret":3,"degree":7},{"str":5,"fret":4,"degree":1},{"str":4,"fret":1,"degree":2},{"str":4,"fret":2,"degree":3},{"str":4,"fret":4,"degree":4},{"str":3,"fret":1,"degree":5},{"str":3,"fret":3,"degree":6},{"str":3,"fret":5,"degree":7},{"str":2,"fret":2,"degree":1},{"str":2,"fret":4,"degree":2},{"str":2,"fret":5,"degree":3},{"str":1,"fret":2,"degree":4},{"str":1,"fret":4,"degree":5},{"str":1,"fret":6,"degree":6}]},{"name":"4/1","notes":[{"str":6,"fret":0,"degree":2},{"str":6,"fret":1,"degree":3},{"str":6,"fret":3,"degree":4},{"str":5,"fret":0,"degree":5},{"str":5,"fret":2,"degree":6},{"str":5,"fret":4,"degree":7},{"str":4,"fret":0,"degree":1},{"str":4,"fret":2,"degree":2},{"str":4,"fret":3,"degree":3},{"str":3,"fret":0,"degree":4},{"str":3,"fret":2,"degree":5},{"str":3,"fret":4,"degree":6},{"str":2,"fret":2,"degree":7},{"str":2,"fret":3,"degree":1},{"str":2,"fret":5,"degree":2},{"str":1,"fret":1,"degree":3},{"str":1,"fret":3,"degree":4},{"str":1,"fret":5,"degree":5}]}]}]},{"name":"Phrygian Dominant","abbr":"phrdom","tones":[{"root":"X","patterns":[{"name":"6/1","notes":[{"str":6,"fret":0,"degree":1},{"str":6,"fret":1,"degree":2},{"str":6,"fret":4,"degree":3},{"str":5,"fret":0,"degree":4},{"str":5,"fret":2,"degree":5},{"str":5,"fret":3,"degree":6},{"str":4,"fret":0,"degree":7},{"str":4,"fret":2,"degree":1},{"str":4,"fret":3,"degree":2},{"str":3,"fret":1,"degree":3},{"str":3,"fret":2,"degree":4},{"str":3,"fret":4,"degree":5},{"str":2,"fret":1,"degree":6},{"str":2,"fret":3,"degree":7},{"str":2,"fret":5,"degree":1},{"str":1,"fret":1,"degree":2},{"str":1,"fret":4,"degree":3},{"str":1,"fret":5,"degree":4}]},{"name":"6/2","notes":[{"str":6,"fret":0,"degree":7},{"str":6,"fret":2,"degree":1},{"str":6,"fret":3,"degree":2},{"str":5,"fret":1,"degree":3},{"str":5,"fret":2,"degree":4},{"str":5,"fret":4,"degree":5},{"str":4,"fret":0,"degree":6},{"str":4,"fret":2,"degree":7},{"str":4,"fret":4,"degree":1},{"str":3,"fret":0,"degree":2},{"str":3,"fret":3,"degree":3},{"str":3,"fret":4,"degree":4},{"str":2,"fret":2,"degree":5},{"str":2,"fret":3,"degree":6},{"str":2,"fret":5,"degree":7},{"str":1,"fret":2,"degree":1},{"str":1,"fret":3,"degree":2},{"str":1,"fret":6,"degree":3}]},{"name":"6/4","notes":[{"str":6,"fret":0,"degree":6},{"str":6,"fret":2,"degree":7},{"str":6,"fret":4,"degree":1},{"str":5,"fret":0,"degree":2},{"str":5,"fret":3,"degree":3},{"str":5,"fret":4,"degree":4},{"str":4,"fret":1,"degree":5},{"str":4,"fret":2,"degree":6},{"str":4,"fret":4,"degree":7},{"str":3,"fret":1,"degree":1},{"str":3,"fret":2,"degree":2},{"str":3,"fret":5,"degree":3},{"str":2,"fret":2,"degree":4},{"str":2,"fret":4,"degree":5},{"str":2,"fret":5,"degree":6},{"str":1,"fret":2,"degree":7},{"str":1,"fret":4,"degree":1},{"str":1,"fret":5,"degree":2}]},{"name":"5/1","notes":[{"str":6,"fret":0,"degree":5},{"str":6,"fret":1,"degree":6},{"str":6,"fret":3,"degree":7},{"str":5,"fret":0,"degree":1},{"str":5,"fret":1,"degree":2},{"str":5,"fret":4,"degree":3},{"str":4,"fret":0,"degree":4},{"str":4,"fret":2,"degree":5},{"str":4,"fret":3,"degree":6},{"str":3,"fret":0,"degree":7},{"str":3,"fret":2,"degree":1},{"str":3,"fret":3,"degree":2},{"str":2,"fret":2,"degree":3},{"str":2,"fret":3,"degree":4},{"str":2,"fret":5,"degree":5},{"str":1,"fret":1,"degree":6},{"str":1,"fret":3,"degree":7},{"str":1,"fret":5,"degree":1}]},{"name":"5/2","notes":[{"str":6,"fret":0,"degree":4},{"str":6,"fret":2,"degree":5},{"str":6,"fret":3,"degree":6},{"str":5,"fret":0,"degree":7},{"str":5,"fret":2,"degree":1},{"str":5,"fret":3,"degree":2},{"str":4,"fret":1,"degree":3},{"str":4,"fret":2,"degree":4},{"str":4,"fret":4,"degree":5},{"str":3,"fret":0,"degree":6},{"str":3,"fret":2,"degree":7},{"str":3,"fret":4,"degree":1},{"str":2,"fret":1,"degree":2},{"str":2,"fret":4,"degree":3},{"str":2,"fret":5,"degree":4},{"str":1,"fret":2,"degree":5},{"str":1,"fret":3,"degree":6},{"str":1,"fret":5,"degree":7}]},{"name":"5/4","notes":[{"str":6,"fret":0,"degree":3},{"str":6,"fret":1,"degree":4},{"str":6,"fret":3,"degree":5},{"str":5,"fret":-1,"degree":6},{"str":5,"fret":1,"degree":7},{"str":5,"fret":3,"degree":1},{"str":4,"fret":-1,"degree":2},{"str":4,"fret":2,"degree":3},{"str":4,"fret":3,"degree":4},{"str":3,"fret":0,"degree":5},{"str":3,"fret":1,"degree":6},{"str":3,"fret":3,"degree":7},{"str":2,"fret":1,"degree":1},{"str":2,"fret":2,"degree":2},{"str":2,"fret":5,"degree":3},{"str":1,"fret":1,"degree":4},{"str":1,"fret":3,"degree":5},{"str":1,"fret":4,"degree":6}]},{"name":"4/1","notes":[{"str":6,"fret":0,"degree":2},{"str":6,"fret":3,"degree":3},{"str":6,"fret":4,"degree":4},{"str":5,"fret":1,"degree":5},{"str":5,"fret":2,"degree":6},{"str":5,"fret":4,"degree":7},{"str":4,"fret":1,"degree":1},{"str":4,"fret":2,"degree":2},{"str":4,"fret":5,"degree":3},{"str":3,"fret":1,"degree":4},{"str":3,"fret":3,"degree":5},{"str":3,"fret":4,"degree":6},{"str":2,"fret":2,"degree":7},{"str":2,"fret":4,"degree":1},{"str":2,"fret":5,"degree":2},{"str":1,"fret":3,"degree":3},{"str":1,"fret":4,"degree":4},{"str":1,"fret":6,"degree":5}]}]}]},{"name":"Lydian Dominant","abbr":"lyddom","tones":[{"root":"X","patterns":[{"name":"6/1","notes":[{"str":6,"fret":0,"degree":1},{"str":6,"fret":2,"degree":2},{"str":6,"fret":4,"degree":3},{"str":5,"fret":1,"degree":4},{"str":5,"fret":2,"degree":5},{"str":5,"fret":4,"degree":6},{"str":4,"fret":0,"degree":7},{"str":4,"fret":2,"degree":1},{"str":4,"fret":4,"degree":2},{"str":3,"fret":1,"degree":3},{"str":3,"fret":3,"degree":4},{"str":3,"fret":4,"degree":5},{"str":2,"fret":2,"degree":6},{"str":2,"fret":3,"degree":7},{"str":2,"fret":5,"degree":1},{"str":1,"fret":2,"degree":2},{"str":1,"fret":4,"degree":3},{"str":1,"fret":6,"degree":4}]},{"name":"6/2","notes":[{"str":6,"fret":0,"degree":7},{"str":6,"fret":2,"degree":1},{"str":6,"fret":4,"degree":2},{"str":5,"fret":1,"degree":3},{"str":5,"fret":3,"degree":4},{"str":5,"fret":4,"degree":5},{"str":4,"fret":1,"degree":6},{"str":4,"fret":2,"degree":7},{"str":4,"fret":4,"degree":1},{"str":3,"fret":1,"degree":2},{"str":3,"fret":3,"degree":3},{"str":3,"fret":5,"degree":4},{"str":2,"fret":2,"degree":5},{"str":2,"fret":4,"degree":6},{"str":2,"fret":5,"degree":7},{"str":1,"fret":2,"degree":1},{"str":1,"fret":4,"degree":2},{"str":1,"fret":6,"degree":3}]},{"name":"6/4","notes":[{"str":6,"fret":0,"degree":6},{"str":6,"fret":1,"degree":7},{"str":6,"fret":3,"degree":1},{"str":5,"fret":0,"degree":2},{"str":5,"fret":2,"degree":3},{"str":5,"fret":4,"degree":4},{"str":4,"fret":0,"degree":5},{"str":4,"fret":2,"degree":6},{"str":4,"fret":3,"degree":7},{"str":3,"fret":0,"degree":1},{"str":3,"fret":2,"degree":2},{"str":3,"fret":4,"degree":3},{"str":2,"fret":2,"degree":4},{"str":2,"fret":3,"degree":5},{"str":2,"fret":5,"degree":6},{"str":1,"fret":1,"degree":7},{"str":1,"fret":3,"degree":1},{"str":1,"fret":5,"degree":2}]},{"name":"5/1","notes":[{"str":6,"fret":0,"degree":5},{"str":6,"fret":2,"degree":6},{"str":6,"fret":3,"degree":7},{"str":5,"fret":0,"degree":1},{"str":5,"fret":2,"degree":2},{"str":5,"fret":4,"degree":3},{"str":4,"fret":1,"degree":4},{"str":4,"fret":2,"degree":5},{"str":4,"fret":4,"degree":6},{"str":3,"fret":0,"degree":7},{"str":3,"fret":2,"degree":1},{"str":3,"fret":4,"degree":2},{"str":2,"fret":2,"degree":3},{"str":2,"fret":4,"degree":4},{"str":2,"fret":5,"degree":5},{"str":1,"fret":2,"degree":6},{"str":1,"fret":3,"degree":7},{"str":1,"fret":5,"degree":1}]},{"name":"5/2","notes":[{"str":6,"fret":0,"degree":4},{"str":6,"fret":1,"degree":5},{"str":6,"fret":3,"degree":6},{"str":5,"fret":-1,"degree":7},{"str":5,"fret":1,"degree":1},{"str":5,"fret":3,"degree":2},{"str":4,"fret":0,"degree":3},{"str":4,"fret":2,"degree":4},{"str":4,"fret":3,"degree":5},{"str":3,"fret":0,"degree":6},{"str":3,"fret":1,"degree":7},{"str":3,"fret":3,"degree":1},{"str":2,"fret":1,"degree":2},{"str":2,"fret":3,"degree":3},{"str":2,"fret":5,"degree":4},{"str":1,"fret":1,"degree":5},{"str":1,"fret":3,"degree":6},{"str":1,"fret":4,"degree":7}]},{"name":"5/4","notes":[{"str":6,"fret":0,"degree":3},{"str":6,"fret":2,"degree":4},{"str":6,"fret":3,"degree":5},{"str":5,"fret":0,"degree":6},{"str":5,"fret":1,"degree":7},{"str":5,"fret":3,"degree":1},{"str":4,"fret":0,"degree":2},{"str":4,"fret":2,"degree":3},{"str":4,"fret":4,"degree":4},{"str":3,"fret":0,"degree":5},{"str":3,"fret":2,"degree":6},{"str":3,"fret":3,"degree":7},{"str":2,"fret":1,"degree":1},{"str":2,"fret":3,"degree":2},{"str":2,"fret":5,"degree":3},{"str":1,"fret":2,"degree":4},{"str":1,"fret":3,"degree":5},{"str":1,"fret":5,"degree":6}]},{"name":"4/1","notes":[{"str":6,"fret":0,"degree":2},{"str":6,"fret":2,"degree":3},{"str":6,"fret":4,"degree":4},{"str":5,"fret":0,"degree":5},{"str":5,"fret":2,"degree":6},{"str":5,"fret":3,"degree":7},{"str":4,"fret":0,"degree":1},{"str":4,"fret":2,"degree":2},{"str":4,"fret":4,"degree":3},{"str":3,"fret":1,"degree":4},{"str":3,"fret":2,"degree":5},{"str":3,"fret":4,"degree":6},{"str":2,"fret":1,"degree":7},{"str":2,"fret":3,"degree":1},{"str":2,"fret":5,"degree":2},{"str":1,"fret":2,"degree":3},{"str":1,"fret":4,"degree":4},{"str":1,"fret":5,"degree":5}]}]}]},{"name":"Super Locrian","abbr":"suploc","tones":[{"root":"X","patterns":[{"name":"6/1","notes":[{"str":6,"fret":0,"degree":1},{"str":6,"fret":1,"degree":2},{"str":6,"fret":3,"degree":3},{"str":5,"fret":-1,"degree":4},{"str":5,"fret":1,"degree":5},{"str":5,"fret":3,"degree":6},{"str":4,"fret":0,"degree":7},{"str":4,"fret":2,"degree":1},{"str":4,"fret":3,"degree":2},{"str":3,"fret":0,"degree":3},{"str":3,"fret":1,"degree":4},{"str":3,"fret":3,"degree":5},{"str":2,"fret":1,"degree":6},{"str":2,"fret":3,"degree":7},{"str":2,"fret":5,"degree":1},{"str":1,"fret":1,"degree":2},{"str":1,"fret":3,"degree":3},{"str":1,"fret":4,"degree":4}]},{"name":"6/2","notes":[{"str":6,"fret":0,"degree":7},{"str":6,"fret":2,"degree":1},{"str":6,"fret":3,"degree":2},{"str":5,"fret":0,"degree":3},{"str":5,"fret":1,"degree":4},{"str":5,"fret":3,"degree":5},{"str":4,"fret":0,"degree":6},{"str":4,"fret":2,"degree":7},{"str":4,"fret":4,"degree":1},{"str":3,"fret":0,"degree":2},{"str":3,"fret":2,"degree":3},{"str":3,"fret":3,"degree":4},{"str":2,"fret":1,"degree":5},{"str":2,"fret":3,"degree":6},{"str":2,"fret":5,"degree":7},{"str":1,"fret":2,"degree":1},{"str":1,"fret":3,"degree":2},{"str":1,"fret":5,"degree":3}]},{"name":"6/4","notes":[{"str":6,"fret":0,"degree":6},{"str":6,"fret":2,"degree":7},{"str":6,"fret":4,"degree":1},{"str":5,"fret":0,"degree":2},{"str":5,"fret":2,"degree":3},{"str":5,"fret":3,"degree":4},{"str":4,"fret":0,"degree":5},{"str":4,"fret":2,"degree":6},{"str":4,"fret":4,"degree":7},{"str":3,"fret":1,"degree":1},{"str":3,"fret":2,"degree":2},{"str":3,"fret":4,"degree":3},{"str":2,"fret":1,"degree":4},{"str":2,"fret":3,"degree":5},{"str":2,"fret":5,"degree":6},{"str":1,"fret":2,"degree":7},{"str":1,"fret":4,"degree":1},{"str":1,"fret":5,"degree":2}]},{"name":"5/1","notes":[{"str":6,"fret":0,"degree":5},{"str":6,"fret":2,"degree":6},{"str":6,"fret":4,"degree":7},{"str":5,"fret":1,"degree":1},{"str":5,"fret":2,"degree":2},{"str":5,"fret":4,"degree":3},{"str":4,"fret":0,"degree":4},{"str":4,"fret":2,"degree":5},{"str":4,"fret":4,"degree":6},{"str":3,"fret":1,"degree":7},{"str":3,"fret":3,"degree":1},{"str":3,"fret":4,"degree":2},{"str":2,"fret":2,"degree":3},{"str":2,"fret":3,"degree":4},{"str":2,"fret":5,"degree":5},{"str":1,"fret":2,"degree":6},{"str":1,"fret":4,"degree":7},{"str":1,"fret":6,"degree":1}]},{"name":"5/2","notes":[{"str":6,"fret":0,"degree":4},{"str":6,"fret":2,"degree":5},{"str":6,"fret":4,"degree":6},{"str":5,"fret":1,"degree":7},{"str":5,"fret":3,"degree":1},{"str":5,"fret":4,"degree":2},{"str":4,"fret":1,"degree":3},{"str":4,"fret":2,"degree":4},{"str":4,"fret":4,"degree":5},{"str":3,"fret":1,"degree":6},{"str":3,"fret":3,"degree":7},{"str":3,"fret":5,"degree":1},{"str":2,"fret":2,"degree":2},{"str":2,"fret":4,"degree":3},{"str":2,"fret":5,"degree":4},{"str":1,"fret":2,"degree":5},{"str":1,"fret":4,"degree":6},{"str":1,"fret":6,"degree":7}]},{"name":"5/4","notes":[{"str":6,"fret":0,"degree":3},{"str":6,"fret":1,"degree":4},{"str":6,"fret":3,"degree":5},{"str":5,"fret":0,"degree":6},{"str":5,"fret":2,"degree":7},{"str":5,"fret":4,"degree":1},{"str":4,"fret":0,"degree":2},{"str":4,"fret":2,"degree":3},{"str":4,"fret":3,"degree":4},{"str":3,"fret":0,"degree":5},{"str":3,"fret":2,"degree":6},{"str":3,"fret":4,"degree":7},{"str":2,"fret":2,"degree":1},{"str":2,"fret":3,"degree":2},{"str":2,"fret":5,"degree":3},{"str":1,"fret":1,"degree":4},{"str":1,"fret":3,"degree":5},{"str":1,"fret":5,"degree":6}]},{"name":"4/1","notes":[{"str":6,"fret":0,"degree":2},{"str":6,"fret":2,"degree":3},{"str":6,"fret":3,"degree":4},{"str":5,"fret":0,"degree":5},{"str":5,"fret":2,"degree":6},{"str":5,"fret":4,"degree":7},{"str":4,"fret":1,"degree":1},{"str":4,"fret":2,"degree":2},{"str":4,"fret":4,"degree":3},{"str":3,"fret":0,"degree":4},{"str":3,"fret":2,"degree":5},{"str":3,"fret":4,"degree":6},{"str":2,"fret":2,"degree":7},{"str":2,"fret":4,"degree":1},{"str":2,"fret":5,"degree":2},{"str":1,"fret":2,"degree":3},{"str":1,"fret":3,"degree":4},{"str":1,"fret":5,"degree":5}]}]}]}]
+[
+  {
+    "name": "Ionian",
+    "abbr": "ion",
+    "tones": [
+      {
+        "root": "X",
+        "patterns": [
+          {
+            "name": "6/1",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 1 },
+              { "str": 6, "fret": 2, "degree": 2 },
+              { "str": 6, "fret": 4, "degree": 3 },
+              { "str": 5, "fret": 0, "degree": 4 },
+              { "str": 5, "fret": 2, "degree": 5 },
+              { "str": 5, "fret": 4, "degree": 6 },
+              { "str": 4, "fret": 1, "degree": 7 },
+              { "str": 4, "fret": 2, "degree": 1 },
+              { "str": 4, "fret": 4, "degree": 2 },
+              { "str": 3, "fret": 1, "degree": 3 },
+              { "str": 3, "fret": 2, "degree": 4 },
+              { "str": 3, "fret": 4, "degree": 5 },
+              { "str": 2, "fret": 2, "degree": 6 },
+              { "str": 2, "fret": 4, "degree": 7 },
+              { "str": 2, "fret": 5, "degree": 1 },
+              { "str": 1, "fret": 2, "degree": 2 },
+              { "str": 1, "fret": 4, "degree": 3 },
+              { "str": 1, "fret": 5, "degree": 4 }
+            ]
+          },
+          {
+            "name": "6/2",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 7 },
+              { "str": 6, "fret": 1, "degree": 1 },
+              { "str": 6, "fret": 3, "degree": 2 },
+              { "str": 5, "fret": 0, "degree": 3 },
+              { "str": 5, "fret": 1, "degree": 4 },
+              { "str": 5, "fret": 3, "degree": 5 },
+              { "str": 4, "fret": 0, "degree": 6 },
+              { "str": 4, "fret": 2, "degree": 7 },
+              { "str": 4, "fret": 3, "degree": 1 },
+              { "str": 3, "fret": 0, "degree": 2 },
+              { "str": 3, "fret": 2, "degree": 3 },
+              { "str": 3, "fret": 3, "degree": 4 },
+              { "str": 2, "fret": 1, "degree": 5 },
+              { "str": 2, "fret": 3, "degree": 6 },
+              { "str": 2, "fret": 5, "degree": 7 },
+              { "str": 1, "fret": 1, "degree": 1 },
+              { "str": 1, "fret": 3, "degree": 2 },
+              { "str": 1, "fret": 5, "degree": 3 }
+            ]
+          },
+          {
+            "name": "6/4",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 6 },
+              { "str": 6, "fret": 2, "degree": 7 },
+              { "str": 6, "fret": 3, "degree": 1 },
+              { "str": 5, "fret": 0, "degree": 2 },
+              { "str": 5, "fret": 2, "degree": 3 },
+              { "str": 5, "fret": 3, "degree": 4 },
+              { "str": 4, "fret": 0, "degree": 5 },
+              { "str": 4, "fret": 2, "degree": 6 },
+              { "str": 4, "fret": 4, "degree": 7 },
+              { "str": 3, "fret": 0, "degree": 1 },
+              { "str": 3, "fret": 2, "degree": 2 },
+              { "str": 3, "fret": 4, "degree": 3 },
+              { "str": 2, "fret": 1, "degree": 4 },
+              { "str": 2, "fret": 3, "degree": 5 },
+              { "str": 2, "fret": 5, "degree": 6 },
+              { "str": 1, "fret": 2, "degree": 7 },
+              { "str": 1, "fret": 3, "degree": 1 },
+              { "str": 1, "fret": 5, "degree": 2 }
+            ]
+          },
+          {
+            "name": "5/1",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 5 },
+              { "str": 6, "fret": 2, "degree": 6 },
+              { "str": 6, "fret": 4, "degree": 7 },
+              { "str": 5, "fret": 0, "degree": 1 },
+              { "str": 5, "fret": 2, "degree": 2 },
+              { "str": 5, "fret": 4, "degree": 3 },
+              { "str": 4, "fret": 0, "degree": 4 },
+              { "str": 4, "fret": 2, "degree": 5 },
+              { "str": 4, "fret": 4, "degree": 6 },
+              { "str": 3, "fret": 1, "degree": 7 },
+              { "str": 3, "fret": 2, "degree": 1 },
+              { "str": 3, "fret": 4, "degree": 2 },
+              { "str": 2, "fret": 2, "degree": 3 },
+              { "str": 2, "fret": 3, "degree": 4 },
+              { "str": 2, "fret": 5, "degree": 5 },
+              { "str": 1, "fret": 2, "degree": 6 },
+              { "str": 1, "fret": 4, "degree": 7 },
+              { "str": 1, "fret": 5, "degree": 1 }
+            ]
+          },
+          {
+            "name": "5/2",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 4 },
+              { "str": 6, "fret": 2, "degree": 5 },
+              { "str": 6, "fret": 4, "degree": 6 },
+              { "str": 5, "fret": 1, "degree": 7 },
+              { "str": 5, "fret": 2, "degree": 1 },
+              { "str": 5, "fret": 4, "degree": 2 },
+              { "str": 4, "fret": 1, "degree": 3 },
+              { "str": 4, "fret": 2, "degree": 4 },
+              { "str": 4, "fret": 4, "degree": 5 },
+              { "str": 3, "fret": 1, "degree": 6 },
+              { "str": 3, "fret": 3, "degree": 7 },
+              { "str": 3, "fret": 4, "degree": 1 },
+              { "str": 2, "fret": 2, "degree": 2 },
+              { "str": 2, "fret": 4, "degree": 3 },
+              { "str": 2, "fret": 5, "degree": 4 },
+              { "str": 1, "fret": 2, "degree": 5 },
+              { "str": 1, "fret": 4, "degree": 6 },
+              { "str": 1, "fret": 6, "degree": 7 }
+            ]
+          },
+          {
+            "name": "5/4",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 3 },
+              { "str": 6, "fret": 1, "degree": 4 },
+              { "str": 6, "fret": 3, "degree": 5 },
+              { "str": 5, "fret": 0, "degree": 6 },
+              { "str": 5, "fret": 2, "degree": 7 },
+              { "str": 5, "fret": 3, "degree": 1 },
+              { "str": 4, "fret": 0, "degree": 2 },
+              { "str": 4, "fret": 2, "degree": 3 },
+              { "str": 4, "fret": 3, "degree": 4 },
+              { "str": 3, "fret": 0, "degree": 5 },
+              { "str": 3, "fret": 2, "degree": 6 },
+              { "str": 3, "fret": 4, "degree": 7 },
+              { "str": 2, "fret": 1, "degree": 1 },
+              { "str": 2, "fret": 3, "degree": 2 },
+              { "str": 2, "fret": 5, "degree": 3 },
+              { "str": 1, "fret": 1, "degree": 4 },
+              { "str": 1, "fret": 3, "degree": 5 },
+              { "str": 1, "fret": 5, "degree": 6 }
+            ]
+          },
+          {
+            "name": "4/1",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 2 },
+              { "str": 6, "fret": 2, "degree": 3 },
+              { "str": 6, "fret": 3, "degree": 4 },
+              { "str": 5, "fret": 0, "degree": 5 },
+              { "str": 5, "fret": 2, "degree": 6 },
+              { "str": 5, "fret": 4, "degree": 7 },
+              { "str": 4, "fret": 0, "degree": 1 },
+              { "str": 4, "fret": 2, "degree": 2 },
+              { "str": 4, "fret": 4, "degree": 3 },
+              { "str": 3, "fret": 0, "degree": 4 },
+              { "str": 3, "fret": 2, "degree": 5 },
+              { "str": 3, "fret": 4, "degree": 6 },
+              { "str": 2, "fret": 2, "degree": 7 },
+              { "str": 2, "fret": 3, "degree": 1 },
+              { "str": 2, "fret": 5, "degree": 2 },
+              { "str": 1, "fret": 2, "degree": 3 },
+              { "str": 1, "fret": 3, "degree": 4 },
+              { "str": 1, "fret": 5, "degree": 5 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dorian",
+    "abbr": "dor",
+    "tones": [
+      {
+        "root": "X",
+        "patterns": [
+          {
+            "name": "6/1",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 1 },
+              { "str": 6, "fret": 2, "degree": 2 },
+              { "str": 6, "fret": 3, "degree": 3 },
+              { "str": 5, "fret": 0, "degree": 4 },
+              { "str": 5, "fret": 2, "degree": 5 },
+              { "str": 5, "fret": 4, "degree": 6 },
+              { "str": 4, "fret": 0, "degree": 7 },
+              { "str": 4, "fret": 2, "degree": 1 },
+              { "str": 4, "fret": 4, "degree": 2 },
+              { "str": 3, "fret": 0, "degree": 3 },
+              { "str": 3, "fret": 2, "degree": 4 },
+              { "str": 3, "fret": 4, "degree": 5 },
+              { "str": 2, "fret": 2, "degree": 6 },
+              { "str": 2, "fret": 3, "degree": 7 },
+              { "str": 2, "fret": 5, "degree": 1 },
+              { "str": 1, "fret": 2, "degree": 2 },
+              { "str": 1, "fret": 3, "degree": 3 },
+              { "str": 1, "fret": 5, "degree": 4 }
+            ]
+          },
+          {
+            "name": "6/2",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 7 },
+              { "str": 6, "fret": 2, "degree": 1 },
+              { "str": 6, "fret": 4, "degree": 2 },
+              { "str": 5, "fret": 0, "degree": 3 },
+              { "str": 5, "fret": 2, "degree": 4 },
+              { "str": 5, "fret": 4, "degree": 5 },
+              { "str": 4, "fret": 1, "degree": 6 },
+              { "str": 4, "fret": 2, "degree": 7 },
+              { "str": 4, "fret": 4, "degree": 1 },
+              { "str": 3, "fret": 1, "degree": 2 },
+              { "str": 3, "fret": 2, "degree": 3 },
+              { "str": 3, "fret": 4, "degree": 4 },
+              { "str": 2, "fret": 2, "degree": 5 },
+              { "str": 2, "fret": 4, "degree": 6 },
+              { "str": 2, "fret": 5, "degree": 7 },
+              { "str": 1, "fret": 2, "degree": 1 },
+              { "str": 1, "fret": 4, "degree": 2 },
+              { "str": 1, "fret": 5, "degree": 3 }
+            ]
+          },
+          {
+            "name": "6/4",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 6 },
+              { "str": 6, "fret": 1, "degree": 7 },
+              { "str": 6, "fret": 3, "degree": 1 },
+              { "str": 5, "fret": 0, "degree": 2 },
+              { "str": 5, "fret": 1, "degree": 3 },
+              { "str": 5, "fret": 3, "degree": 4 },
+              { "str": 4, "fret": 0, "degree": 5 },
+              { "str": 4, "fret": 2, "degree": 6 },
+              { "str": 4, "fret": 3, "degree": 7 },
+              { "str": 3, "fret": 0, "degree": 1 },
+              { "str": 3, "fret": 2, "degree": 2 },
+              { "str": 3, "fret": 3, "degree": 3 },
+              { "str": 2, "fret": 1, "degree": 4 },
+              { "str": 2, "fret": 3, "degree": 5 },
+              { "str": 2, "fret": 5, "degree": 6 },
+              { "str": 1, "fret": 1, "degree": 7 },
+              { "str": 1, "fret": 3, "degree": 1 },
+              { "str": 1, "fret": 5, "degree": 2 }
+            ]
+          },
+          {
+            "name": "5/1",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 5 },
+              { "str": 6, "fret": 2, "degree": 6 },
+              { "str": 6, "fret": 3, "degree": 7 },
+              { "str": 5, "fret": 0, "degree": 1 },
+              { "str": 5, "fret": 2, "degree": 2 },
+              { "str": 5, "fret": 3, "degree": 3 },
+              { "str": 4, "fret": 0, "degree": 4 },
+              { "str": 4, "fret": 2, "degree": 5 },
+              { "str": 4, "fret": 4, "degree": 6 },
+              { "str": 3, "fret": 0, "degree": 7 },
+              { "str": 3, "fret": 2, "degree": 1 },
+              { "str": 3, "fret": 4, "degree": 2 },
+              { "str": 2, "fret": 1, "degree": 3 },
+              { "str": 2, "fret": 3, "degree": 4 },
+              { "str": 2, "fret": 5, "degree": 5 },
+              { "str": 1, "fret": 2, "degree": 6 },
+              { "str": 1, "fret": 3, "degree": 7 },
+              { "str": 1, "fret": 5, "degree": 1 }
+            ]
+          },
+          {
+            "name": "5/2",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 4 },
+              { "str": 6, "fret": 2, "degree": 5 },
+              { "str": 6, "fret": 4, "degree": 6 },
+              { "str": 5, "fret": 0, "degree": 7 },
+              { "str": 5, "fret": 2, "degree": 1 },
+              { "str": 5, "fret": 4, "degree": 2 },
+              { "str": 4, "fret": 0, "degree": 3 },
+              { "str": 4, "fret": 2, "degree": 4 },
+              { "str": 4, "fret": 4, "degree": 5 },
+              { "str": 3, "fret": 1, "degree": 6 },
+              { "str": 3, "fret": 2, "degree": 7 },
+              { "str": 3, "fret": 4, "degree": 1 },
+              { "str": 2, "fret": 2, "degree": 2 },
+              { "str": 2, "fret": 3, "degree": 3 },
+              { "str": 2, "fret": 5, "degree": 4 },
+              { "str": 1, "fret": 2, "degree": 5 },
+              { "str": 1, "fret": 4, "degree": 6 },
+              { "str": 1, "fret": 5, "degree": 7 }
+            ]
+          },
+          {
+            "name": "5/4",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 3 },
+              { "str": 6, "fret": 2, "degree": 4 },
+              { "str": 6, "fret": 4, "degree": 5 },
+              { "str": 5, "fret": 1, "degree": 6 },
+              { "str": 5, "fret": 2, "degree": 7 },
+              { "str": 5, "fret": 4, "degree": 1 },
+              { "str": 4, "fret": 1, "degree": 2 },
+              { "str": 4, "fret": 2, "degree": 3 },
+              { "str": 4, "fret": 4, "degree": 4 },
+              { "str": 3, "fret": 1, "degree": 5 },
+              { "str": 3, "fret": 3, "degree": 6 },
+              { "str": 3, "fret": 4, "degree": 7 },
+              { "str": 2, "fret": 2, "degree": 1 },
+              { "str": 2, "fret": 4, "degree": 2 },
+              { "str": 2, "fret": 5, "degree": 3 },
+              { "str": 1, "fret": 2, "degree": 4 },
+              { "str": 1, "fret": 4, "degree": 5 },
+              { "str": 1, "fret": 6, "degree": 6 }
+            ]
+          },
+          {
+            "name": "4/1",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 2 },
+              { "str": 6, "fret": 1, "degree": 3 },
+              { "str": 6, "fret": 3, "degree": 4 },
+              { "str": 5, "fret": 0, "degree": 5 },
+              { "str": 5, "fret": 2, "degree": 6 },
+              { "str": 5, "fret": 3, "degree": 7 },
+              { "str": 4, "fret": 0, "degree": 1 },
+              { "str": 4, "fret": 2, "degree": 2 },
+              { "str": 4, "fret": 3, "degree": 3 },
+              { "str": 3, "fret": 0, "degree": 4 },
+              { "str": 3, "fret": 2, "degree": 5 },
+              { "str": 3, "fret": 4, "degree": 6 },
+              { "str": 2, "fret": 1, "degree": 7 },
+              { "str": 2, "fret": 3, "degree": 1 },
+              { "str": 2, "fret": 5, "degree": 2 },
+              { "str": 1, "fret": 1, "degree": 3 },
+              { "str": 1, "fret": 3, "degree": 4 },
+              { "str": 1, "fret": 5, "degree": 5 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Phrygian",
+    "abbr": "phr",
+    "tones": [
+      {
+        "root": "X",
+        "patterns": [
+          {
+            "name": "6/1",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 1 },
+              { "str": 6, "fret": 1, "degree": 2 },
+              { "str": 6, "fret": 3, "degree": 3 },
+              { "str": 5, "fret": 0, "degree": 4 },
+              { "str": 5, "fret": 2, "degree": 5 },
+              { "str": 5, "fret": 3, "degree": 6 },
+              { "str": 4, "fret": 0, "degree": 7 },
+              { "str": 4, "fret": 2, "degree": 1 },
+              { "str": 4, "fret": 3, "degree": 2 },
+              { "str": 3, "fret": 0, "degree": 3 },
+              { "str": 3, "fret": 2, "degree": 4 },
+              { "str": 3, "fret": 4, "degree": 5 },
+              { "str": 2, "fret": 1, "degree": 6 },
+              { "str": 2, "fret": 3, "degree": 7 },
+              { "str": 2, "fret": 5, "degree": 1 },
+              { "str": 1, "fret": 1, "degree": 2 },
+              { "str": 1, "fret": 3, "degree": 3 },
+              { "str": 1, "fret": 5, "degree": 4 }
+            ]
+          },
+          {
+            "name": "6/2",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 7 },
+              { "str": 6, "fret": 2, "degree": 1 },
+              { "str": 6, "fret": 3, "degree": 2 },
+              { "str": 5, "fret": 0, "degree": 3 },
+              { "str": 5, "fret": 2, "degree": 4 },
+              { "str": 5, "fret": 4, "degree": 5 },
+              { "str": 4, "fret": 0, "degree": 6 },
+              { "str": 4, "fret": 2, "degree": 7 },
+              { "str": 4, "fret": 4, "degree": 1 },
+              { "str": 3, "fret": 0, "degree": 2 },
+              { "str": 3, "fret": 2, "degree": 3 },
+              { "str": 3, "fret": 4, "degree": 4 },
+              { "str": 2, "fret": 2, "degree": 5 },
+              { "str": 2, "fret": 3, "degree": 6 },
+              { "str": 2, "fret": 5, "degree": 7 },
+              { "str": 1, "fret": 2, "degree": 1 },
+              { "str": 1, "fret": 3, "degree": 2 },
+              { "str": 1, "fret": 5, "degree": 3 }
+            ]
+          },
+          {
+            "name": "6/4",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 6 },
+              { "str": 6, "fret": 2, "degree": 7 },
+              { "str": 6, "fret": 4, "degree": 1 },
+              { "str": 5, "fret": 0, "degree": 2 },
+              { "str": 5, "fret": 2, "degree": 3 },
+              { "str": 5, "fret": 4, "degree": 4 },
+              { "str": 4, "fret": 1, "degree": 5 },
+              { "str": 4, "fret": 2, "degree": 6 },
+              { "str": 4, "fret": 4, "degree": 7 },
+              { "str": 3, "fret": 1, "degree": 1 },
+              { "str": 3, "fret": 2, "degree": 2 },
+              { "str": 3, "fret": 4, "degree": 3 },
+              { "str": 2, "fret": 2, "degree": 4 },
+              { "str": 2, "fret": 4, "degree": 5 },
+              { "str": 2, "fret": 5, "degree": 6 },
+              { "str": 1, "fret": 2, "degree": 7 },
+              { "str": 1, "fret": 4, "degree": 1 },
+              { "str": 1, "fret": 5, "degree": 2 }
+            ]
+          },
+          {
+            "name": "5/1",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 5 },
+              { "str": 6, "fret": 1, "degree": 6 },
+              { "str": 6, "fret": 3, "degree": 7 },
+              { "str": 5, "fret": 0, "degree": 1 },
+              { "str": 5, "fret": 1, "degree": 2 },
+              { "str": 5, "fret": 3, "degree": 3 },
+              { "str": 4, "fret": 0, "degree": 4 },
+              { "str": 4, "fret": 2, "degree": 5 },
+              { "str": 4, "fret": 3, "degree": 6 },
+              { "str": 3, "fret": 0, "degree": 7 },
+              { "str": 3, "fret": 2, "degree": 1 },
+              { "str": 3, "fret": 3, "degree": 2 },
+              { "str": 2, "fret": 1, "degree": 3 },
+              { "str": 2, "fret": 3, "degree": 4 },
+              { "str": 2, "fret": 5, "degree": 5 },
+              { "str": 1, "fret": 1, "degree": 6 },
+              { "str": 1, "fret": 3, "degree": 7 },
+              { "str": 1, "fret": 5, "degree": 1 }
+            ]
+          },
+          {
+            "name": "5/2",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 4 },
+              { "str": 6, "fret": 2, "degree": 5 },
+              { "str": 6, "fret": 3, "degree": 6 },
+              { "str": 5, "fret": 0, "degree": 7 },
+              { "str": 5, "fret": 2, "degree": 1 },
+              { "str": 5, "fret": 3, "degree": 2 },
+              { "str": 4, "fret": 0, "degree": 3 },
+              { "str": 4, "fret": 2, "degree": 4 },
+              { "str": 4, "fret": 4, "degree": 5 },
+              { "str": 3, "fret": 0, "degree": 6 },
+              { "str": 3, "fret": 2, "degree": 7 },
+              { "str": 3, "fret": 4, "degree": 1 },
+              { "str": 2, "fret": 1, "degree": 2 },
+              { "str": 2, "fret": 3, "degree": 3 },
+              { "str": 2, "fret": 5, "degree": 4 },
+              { "str": 1, "fret": 2, "degree": 5 },
+              { "str": 1, "fret": 3, "degree": 6 },
+              { "str": 1, "fret": 5, "degree": 7 }
+            ]
+          },
+          {
+            "name": "5/4",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 3 },
+              { "str": 6, "fret": 2, "degree": 4 },
+              { "str": 6, "fret": 4, "degree": 5 },
+              { "str": 5, "fret": 0, "degree": 6 },
+              { "str": 5, "fret": 2, "degree": 7 },
+              { "str": 5, "fret": 4, "degree": 1 },
+              { "str": 4, "fret": 0, "degree": 2 },
+              { "str": 4, "fret": 2, "degree": 3 },
+              { "str": 4, "fret": 4, "degree": 4 },
+              { "str": 3, "fret": 1, "degree": 5 },
+              { "str": 3, "fret": 2, "degree": 6 },
+              { "str": 3, "fret": 4, "degree": 7 },
+              { "str": 2, "fret": 2, "degree": 1 },
+              { "str": 2, "fret": 3, "degree": 2 },
+              { "str": 2, "fret": 5, "degree": 3 },
+              { "str": 1, "fret": 2, "degree": 4 },
+              { "str": 1, "fret": 4, "degree": 5 },
+              { "str": 1, "fret": 5, "degree": 6 }
+            ]
+          },
+          {
+            "name": "4/1",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 2 },
+              { "str": 6, "fret": 2, "degree": 3 },
+              { "str": 6, "fret": 4, "degree": 4 },
+              { "str": 5, "fret": 1, "degree": 5 },
+              { "str": 5, "fret": 2, "degree": 6 },
+              { "str": 5, "fret": 4, "degree": 7 },
+              { "str": 4, "fret": 1, "degree": 1 },
+              { "str": 4, "fret": 2, "degree": 2 },
+              { "str": 4, "fret": 4, "degree": 3 },
+              { "str": 3, "fret": 1, "degree": 4 },
+              { "str": 3, "fret": 3, "degree": 5 },
+              { "str": 3, "fret": 4, "degree": 6 },
+              { "str": 2, "fret": 2, "degree": 7 },
+              { "str": 2, "fret": 4, "degree": 1 },
+              { "str": 2, "fret": 5, "degree": 2 },
+              { "str": 1, "fret": 2, "degree": 3 },
+              { "str": 1, "fret": 4, "degree": 4 },
+              { "str": 1, "fret": 6, "degree": 5 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lydian",
+    "abbr": "lyd",
+    "tones": [
+      {
+        "root": "X",
+        "patterns": [
+          {
+            "name": "6/1",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 1 },
+              { "str": 6, "fret": 2, "degree": 2 },
+              { "str": 6, "fret": 4, "degree": 3 },
+              { "str": 5, "fret": 1, "degree": 4 },
+              { "str": 5, "fret": 2, "degree": 5 },
+              { "str": 5, "fret": 4, "degree": 6 },
+              { "str": 4, "fret": 1, "degree": 7 },
+              { "str": 4, "fret": 2, "degree": 1 },
+              { "str": 4, "fret": 4, "degree": 2 },
+              { "str": 3, "fret": 1, "degree": 3 },
+              { "str": 3, "fret": 3, "degree": 4 },
+              { "str": 3, "fret": 4, "degree": 5 },
+              { "str": 2, "fret": 2, "degree": 6 },
+              { "str": 2, "fret": 4, "degree": 7 },
+              { "str": 2, "fret": 5, "degree": 1 },
+              { "str": 1, "fret": 2, "degree": 2 },
+              { "str": 1, "fret": 4, "degree": 3 },
+              { "str": 1, "fret": 6, "degree": 4 }
+            ]
+          },
+          {
+            "name": "6/2",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 7 },
+              { "str": 6, "fret": 1, "degree": 1 },
+              { "str": 6, "fret": 3, "degree": 2 },
+              { "str": 5, "fret": 0, "degree": 3 },
+              { "str": 5, "fret": 2, "degree": 4 },
+              { "str": 5, "fret": 3, "degree": 5 },
+              { "str": 4, "fret": 0, "degree": 6 },
+              { "str": 4, "fret": 2, "degree": 7 },
+              { "str": 4, "fret": 3, "degree": 1 },
+              { "str": 3, "fret": 0, "degree": 2 },
+              { "str": 3, "fret": 2, "degree": 3 },
+              { "str": 3, "fret": 4, "degree": 4 },
+              { "str": 2, "fret": 1, "degree": 5 },
+              { "str": 2, "fret": 3, "degree": 6 },
+              { "str": 2, "fret": 5, "degree": 7 },
+              { "str": 1, "fret": 1, "degree": 1 },
+              { "str": 1, "fret": 3, "degree": 2 },
+              { "str": 1, "fret": 5, "degree": 3 }
+            ]
+          },
+          {
+            "name": "6/4",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 6 },
+              { "str": 6, "fret": 2, "degree": 7 },
+              { "str": 6, "fret": 3, "degree": 1 },
+              { "str": 5, "fret": 0, "degree": 2 },
+              { "str": 5, "fret": 2, "degree": 3 },
+              { "str": 5, "fret": 4, "degree": 4 },
+              { "str": 4, "fret": 0, "degree": 5 },
+              { "str": 4, "fret": 2, "degree": 6 },
+              { "str": 4, "fret": 4, "degree": 7 },
+              { "str": 3, "fret": 0, "degree": 1 },
+              { "str": 3, "fret": 2, "degree": 2 },
+              { "str": 3, "fret": 4, "degree": 3 },
+              { "str": 2, "fret": 2, "degree": 4 },
+              { "str": 2, "fret": 3, "degree": 5 },
+              { "str": 2, "fret": 5, "degree": 6 },
+              { "str": 1, "fret": 2, "degree": 7 },
+              { "str": 1, "fret": 3, "degree": 1 },
+              { "str": 1, "fret": 5, "degree": 2 }
+            ]
+          },
+          {
+            "name": "5/1",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 5 },
+              { "str": 6, "fret": 2, "degree": 6 },
+              { "str": 6, "fret": 4, "degree": 7 },
+              { "str": 5, "fret": 0, "degree": 1 },
+              { "str": 5, "fret": 2, "degree": 2 },
+              { "str": 5, "fret": 4, "degree": 3 },
+              { "str": 4, "fret": 1, "degree": 4 },
+              { "str": 4, "fret": 2, "degree": 5 },
+              { "str": 4, "fret": 4, "degree": 6 },
+              { "str": 3, "fret": 1, "degree": 7 },
+              { "str": 3, "fret": 2, "degree": 1 },
+              { "str": 3, "fret": 4, "degree": 2 },
+              { "str": 2, "fret": 2, "degree": 3 },
+              { "str": 2, "fret": 4, "degree": 4 },
+              { "str": 2, "fret": 5, "degree": 5 },
+              { "str": 1, "fret": 2, "degree": 6 },
+              { "str": 1, "fret": 4, "degree": 7 },
+              { "str": 1, "fret": 5, "degree": 1 }
+            ]
+          },
+          {
+            "name": "5/2",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 4 },
+              { "str": 6, "fret": 1, "degree": 5 },
+              { "str": 6, "fret": 3, "degree": 6 },
+              { "str": 5, "fret": 0, "degree": 7 },
+              { "str": 5, "fret": 1, "degree": 1 },
+              { "str": 5, "fret": 3, "degree": 2 },
+              { "str": 4, "fret": 0, "degree": 3 },
+              { "str": 4, "fret": 2, "degree": 4 },
+              { "str": 4, "fret": 3, "degree": 5 },
+              { "str": 3, "fret": 0, "degree": 6 },
+              { "str": 3, "fret": 2, "degree": 7 },
+              { "str": 3, "fret": 3, "degree": 1 },
+              { "str": 2, "fret": 1, "degree": 2 },
+              { "str": 2, "fret": 3, "degree": 3 },
+              { "str": 2, "fret": 5, "degree": 4 },
+              { "str": 1, "fret": 1, "degree": 5 },
+              { "str": 1, "fret": 3, "degree": 6 },
+              { "str": 1, "fret": 5, "degree": 7 }
+            ]
+          },
+          {
+            "name": "5/4",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 3 },
+              { "str": 6, "fret": 2, "degree": 4 },
+              { "str": 6, "fret": 3, "degree": 5 },
+              { "str": 5, "fret": 0, "degree": 6 },
+              { "str": 5, "fret": 2, "degree": 7 },
+              { "str": 5, "fret": 3, "degree": 1 },
+              { "str": 4, "fret": 0, "degree": 2 },
+              { "str": 4, "fret": 2, "degree": 3 },
+              { "str": 4, "fret": 4, "degree": 4 },
+              { "str": 3, "fret": 0, "degree": 5 },
+              { "str": 3, "fret": 2, "degree": 6 },
+              { "str": 3, "fret": 4, "degree": 7 },
+              { "str": 2, "fret": 1, "degree": 1 },
+              { "str": 2, "fret": 3, "degree": 2 },
+              { "str": 2, "fret": 5, "degree": 3 },
+              { "str": 1, "fret": 2, "degree": 4 },
+              { "str": 1, "fret": 3, "degree": 5 },
+              { "str": 1, "fret": 5, "degree": 6 }
+            ]
+          },
+          {
+            "name": "4/1",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 2 },
+              { "str": 6, "fret": 2, "degree": 3 },
+              { "str": 6, "fret": 4, "degree": 4 },
+              { "str": 5, "fret": 0, "degree": 5 },
+              { "str": 5, "fret": 2, "degree": 6 },
+              { "str": 5, "fret": 4, "degree": 7 },
+              { "str": 4, "fret": 0, "degree": 1 },
+              { "str": 4, "fret": 2, "degree": 2 },
+              { "str": 4, "fret": 4, "degree": 3 },
+              { "str": 3, "fret": 1, "degree": 4 },
+              { "str": 3, "fret": 2, "degree": 5 },
+              { "str": 3, "fret": 4, "degree": 6 },
+              { "str": 2, "fret": 2, "degree": 7 },
+              { "str": 2, "fret": 3, "degree": 1 },
+              { "str": 2, "fret": 5, "degree": 2 },
+              { "str": 1, "fret": 2, "degree": 3 },
+              { "str": 1, "fret": 4, "degree": 4 },
+              { "str": 1, "fret": 5, "degree": 5 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mixolydian",
+    "abbr": "mixlyd",
+    "tones": [
+      {
+        "root": "X",
+        "patterns": [
+          {
+            "name": "6/1",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 1 },
+              { "str": 6, "fret": 2, "degree": 2 },
+              { "str": 6, "fret": 4, "degree": 3 },
+              { "str": 5, "fret": 0, "degree": 4 },
+              { "str": 5, "fret": 2, "degree": 5 },
+              { "str": 5, "fret": 4, "degree": 6 },
+              { "str": 4, "fret": 0, "degree": 7 },
+              { "str": 4, "fret": 2, "degree": 1 },
+              { "str": 4, "fret": 4, "degree": 2 },
+              { "str": 3, "fret": 1, "degree": 3 },
+              { "str": 3, "fret": 2, "degree": 4 },
+              { "str": 3, "fret": 4, "degree": 5 },
+              { "str": 2, "fret": 2, "degree": 6 },
+              { "str": 2, "fret": 3, "degree": 7 },
+              { "str": 2, "fret": 5, "degree": 1 },
+              { "str": 1, "fret": 2, "degree": 2 },
+              { "str": 1, "fret": 4, "degree": 3 },
+              { "str": 1, "fret": 5, "degree": 4 }
+            ]
+          },
+          {
+            "name": "6/2",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 7 },
+              { "str": 6, "fret": 2, "degree": 1 },
+              { "str": 6, "fret": 4, "degree": 2 },
+              { "str": 5, "fret": 1, "degree": 3 },
+              { "str": 5, "fret": 2, "degree": 4 },
+              { "str": 5, "fret": 4, "degree": 5 },
+              { "str": 4, "fret": 1, "degree": 6 },
+              { "str": 4, "fret": 2, "degree": 7 },
+              { "str": 4, "fret": 4, "degree": 1 },
+              { "str": 3, "fret": 1, "degree": 2 },
+              { "str": 3, "fret": 3, "degree": 3 },
+              { "str": 3, "fret": 4, "degree": 4 },
+              { "str": 2, "fret": 2, "degree": 5 },
+              { "str": 2, "fret": 4, "degree": 6 },
+              { "str": 2, "fret": 5, "degree": 7 },
+              { "str": 1, "fret": 2, "degree": 1 },
+              { "str": 1, "fret": 4, "degree": 2 },
+              { "str": 1, "fret": 6, "degree": 3 }
+            ]
+          },
+          {
+            "name": "6/4",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 6 },
+              { "str": 6, "fret": 1, "degree": 7 },
+              { "str": 6, "fret": 3, "degree": 1 },
+              { "str": 5, "fret": 0, "degree": 2 },
+              { "str": 5, "fret": 2, "degree": 3 },
+              { "str": 5, "fret": 3, "degree": 4 },
+              { "str": 4, "fret": 0, "degree": 5 },
+              { "str": 4, "fret": 2, "degree": 6 },
+              { "str": 4, "fret": 3, "degree": 7 },
+              { "str": 3, "fret": 0, "degree": 1 },
+              { "str": 3, "fret": 2, "degree": 2 },
+              { "str": 3, "fret": 4, "degree": 3 },
+              { "str": 2, "fret": 1, "degree": 4 },
+              { "str": 2, "fret": 3, "degree": 5 },
+              { "str": 2, "fret": 5, "degree": 6 },
+              { "str": 1, "fret": 1, "degree": 7 },
+              { "str": 1, "fret": 3, "degree": 1 },
+              { "str": 1, "fret": 5, "degree": 2 }
+            ]
+          },
+          {
+            "name": "5/1",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 5 },
+              { "str": 6, "fret": 2, "degree": 6 },
+              { "str": 6, "fret": 3, "degree": 7 },
+              { "str": 5, "fret": 0, "degree": 1 },
+              { "str": 5, "fret": 2, "degree": 2 },
+              { "str": 5, "fret": 4, "degree": 3 },
+              { "str": 4, "fret": 0, "degree": 4 },
+              { "str": 4, "fret": 2, "degree": 5 },
+              { "str": 4, "fret": 4, "degree": 6 },
+              { "str": 3, "fret": 0, "degree": 7 },
+              { "str": 3, "fret": 2, "degree": 1 },
+              { "str": 3, "fret": 4, "degree": 2 },
+              { "str": 2, "fret": 2, "degree": 3 },
+              { "str": 2, "fret": 3, "degree": 4 },
+              { "str": 2, "fret": 5, "degree": 5 },
+              { "str": 1, "fret": 2, "degree": 6 },
+              { "str": 1, "fret": 3, "degree": 7 },
+              { "str": 1, "fret": 5, "degree": 1 }
+            ]
+          },
+          {
+            "name": "5/2",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 4 },
+              { "str": 6, "fret": 2, "degree": 5 },
+              { "str": 6, "fret": 4, "degree": 6 },
+              { "str": 5, "fret": 0, "degree": 7 },
+              { "str": 5, "fret": 2, "degree": 1 },
+              { "str": 5, "fret": 4, "degree": 2 },
+              { "str": 4, "fret": 1, "degree": 3 },
+              { "str": 4, "fret": 2, "degree": 4 },
+              { "str": 4, "fret": 4, "degree": 5 },
+              { "str": 3, "fret": 1, "degree": 6 },
+              { "str": 3, "fret": 2, "degree": 7 },
+              { "str": 3, "fret": 4, "degree": 1 },
+              { "str": 2, "fret": 2, "degree": 2 },
+              { "str": 2, "fret": 4, "degree": 3 },
+              { "str": 2, "fret": 5, "degree": 4 },
+              { "str": 1, "fret": 2, "degree": 5 },
+              { "str": 1, "fret": 4, "degree": 6 },
+              { "str": 1, "fret": 5, "degree": 7 }
+            ]
+          },
+          {
+            "name": "5/4",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 3 },
+              { "str": 6, "fret": 1, "degree": 4 },
+              { "str": 6, "fret": 3, "degree": 5 },
+              { "str": 5, "fret": 0, "degree": 6 },
+              { "str": 5, "fret": 1, "degree": 7 },
+              { "str": 5, "fret": 3, "degree": 1 },
+              { "str": 4, "fret": 0, "degree": 2 },
+              { "str": 4, "fret": 2, "degree": 3 },
+              { "str": 4, "fret": 3, "degree": 4 },
+              { "str": 3, "fret": 0, "degree": 5 },
+              { "str": 3, "fret": 2, "degree": 6 },
+              { "str": 3, "fret": 3, "degree": 7 },
+              { "str": 2, "fret": 1, "degree": 1 },
+              { "str": 2, "fret": 3, "degree": 2 },
+              { "str": 2, "fret": 5, "degree": 3 },
+              { "str": 1, "fret": 1, "degree": 4 },
+              { "str": 1, "fret": 3, "degree": 5 },
+              { "str": 1, "fret": 5, "degree": 6 }
+            ]
+          },
+          {
+            "name": "4/1",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 2 },
+              { "str": 6, "fret": 2, "degree": 3 },
+              { "str": 6, "fret": 3, "degree": 4 },
+              { "str": 5, "fret": 0, "degree": 5 },
+              { "str": 5, "fret": 2, "degree": 6 },
+              { "str": 5, "fret": 3, "degree": 7 },
+              { "str": 4, "fret": 0, "degree": 1 },
+              { "str": 4, "fret": 2, "degree": 2 },
+              { "str": 4, "fret": 4, "degree": 3 },
+              { "str": 3, "fret": 0, "degree": 4 },
+              { "str": 3, "fret": 2, "degree": 5 },
+              { "str": 3, "fret": 4, "degree": 6 },
+              { "str": 2, "fret": 1, "degree": 7 },
+              { "str": 2, "fret": 3, "degree": 1 },
+              { "str": 2, "fret": 5, "degree": 2 },
+              { "str": 1, "fret": 2, "degree": 3 },
+              { "str": 1, "fret": 3, "degree": 4 },
+              { "str": 1, "fret": 5, "degree": 5 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aeolian",
+    "abbr": "aeo",
+    "tones": [
+      {
+        "root": "X",
+        "patterns": [
+          {
+            "name": "6/1",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 1 },
+              { "str": 6, "fret": 2, "degree": 2 },
+              { "str": 6, "fret": 3, "degree": 3 },
+              { "str": 5, "fret": 0, "degree": 4 },
+              { "str": 5, "fret": 2, "degree": 5 },
+              { "str": 5, "fret": 3, "degree": 6 },
+              { "str": 4, "fret": 0, "degree": 7 },
+              { "str": 4, "fret": 2, "degree": 1 },
+              { "str": 4, "fret": 4, "degree": 2 },
+              { "str": 3, "fret": 0, "degree": 3 },
+              { "str": 3, "fret": 2, "degree": 4 },
+              { "str": 3, "fret": 4, "degree": 5 },
+              { "str": 2, "fret": 1, "degree": 6 },
+              { "str": 2, "fret": 3, "degree": 7 },
+              { "str": 2, "fret": 5, "degree": 1 },
+              { "str": 1, "fret": 2, "degree": 2 },
+              { "str": 1, "fret": 3, "degree": 3 },
+              { "str": 1, "fret": 5, "degree": 4 }
+            ]
+          },
+          {
+            "name": "6/2",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 7 },
+              { "str": 6, "fret": 2, "degree": 1 },
+              { "str": 6, "fret": 4, "degree": 2 },
+              { "str": 5, "fret": 0, "degree": 3 },
+              { "str": 5, "fret": 2, "degree": 4 },
+              { "str": 5, "fret": 4, "degree": 5 },
+              { "str": 4, "fret": 0, "degree": 6 },
+              { "str": 4, "fret": 2, "degree": 7 },
+              { "str": 4, "fret": 4, "degree": 1 },
+              { "str": 3, "fret": 1, "degree": 2 },
+              { "str": 3, "fret": 2, "degree": 3 },
+              { "str": 3, "fret": 4, "degree": 4 },
+              { "str": 2, "fret": 2, "degree": 5 },
+              { "str": 2, "fret": 3, "degree": 6 },
+              { "str": 2, "fret": 5, "degree": 7 },
+              { "str": 1, "fret": 2, "degree": 1 },
+              { "str": 1, "fret": 4, "degree": 2 },
+              { "str": 1, "fret": 5, "degree": 3 }
+            ]
+          },
+          {
+            "name": "6/4",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 6 },
+              { "str": 6, "fret": 2, "degree": 7 },
+              { "str": 6, "fret": 4, "degree": 1 },
+              { "str": 5, "fret": 1, "degree": 2 },
+              { "str": 5, "fret": 2, "degree": 3 },
+              { "str": 5, "fret": 4, "degree": 4 },
+              { "str": 4, "fret": 1, "degree": 5 },
+              { "str": 4, "fret": 2, "degree": 6 },
+              { "str": 4, "fret": 4, "degree": 7 },
+              { "str": 3, "fret": 1, "degree": 1 },
+              { "str": 3, "fret": 3, "degree": 2 },
+              { "str": 3, "fret": 4, "degree": 3 },
+              { "str": 2, "fret": 2, "degree": 4 },
+              { "str": 2, "fret": 4, "degree": 5 },
+              { "str": 2, "fret": 5, "degree": 6 },
+              { "str": 1, "fret": 2, "degree": 7 },
+              { "str": 1, "fret": 4, "degree": 1 },
+              { "str": 1, "fret": 6, "degree": 2 }
+            ]
+          },
+          {
+            "name": "5/1",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 5 },
+              { "str": 6, "fret": 1, "degree": 6 },
+              { "str": 6, "fret": 3, "degree": 7 },
+              { "str": 5, "fret": 0, "degree": 1 },
+              { "str": 5, "fret": 2, "degree": 2 },
+              { "str": 5, "fret": 3, "degree": 3 },
+              { "str": 4, "fret": 0, "degree": 4 },
+              { "str": 4, "fret": 2, "degree": 5 },
+              { "str": 4, "fret": 3, "degree": 6 },
+              { "str": 3, "fret": 0, "degree": 7 },
+              { "str": 3, "fret": 2, "degree": 1 },
+              { "str": 3, "fret": 4, "degree": 2 },
+              { "str": 2, "fret": 1, "degree": 3 },
+              { "str": 2, "fret": 3, "degree": 4 },
+              { "str": 2, "fret": 5, "degree": 5 },
+              { "str": 1, "fret": 1, "degree": 6 },
+              { "str": 1, "fret": 3, "degree": 7 },
+              { "str": 1, "fret": 5, "degree": 1 }
+            ]
+          },
+          {
+            "name": "5/2",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 4 },
+              { "str": 6, "fret": 2, "degree": 5 },
+              { "str": 6, "fret": 3, "degree": 6 },
+              { "str": 5, "fret": 0, "degree": 7 },
+              { "str": 5, "fret": 2, "degree": 1 },
+              { "str": 5, "fret": 4, "degree": 2 },
+              { "str": 4, "fret": 0, "degree": 3 },
+              { "str": 4, "fret": 2, "degree": 4 },
+              { "str": 4, "fret": 4, "degree": 5 },
+              { "str": 3, "fret": 0, "degree": 6 },
+              { "str": 3, "fret": 2, "degree": 7 },
+              { "str": 3, "fret": 4, "degree": 1 },
+              { "str": 2, "fret": 2, "degree": 2 },
+              { "str": 2, "fret": 3, "degree": 3 },
+              { "str": 2, "fret": 5, "degree": 4 },
+              { "str": 1, "fret": 2, "degree": 5 },
+              { "str": 1, "fret": 3, "degree": 6 },
+              { "str": 1, "fret": 5, "degree": 7 }
+            ]
+          },
+          {
+            "name": "5/4",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 3 },
+              { "str": 6, "fret": 2, "degree": 4 },
+              { "str": 6, "fret": 4, "degree": 5 },
+              { "str": 5, "fret": 0, "degree": 6 },
+              { "str": 5, "fret": 2, "degree": 7 },
+              { "str": 5, "fret": 4, "degree": 1 },
+              { "str": 4, "fret": 1, "degree": 2 },
+              { "str": 4, "fret": 2, "degree": 3 },
+              { "str": 4, "fret": 4, "degree": 4 },
+              { "str": 3, "fret": 1, "degree": 5 },
+              { "str": 3, "fret": 2, "degree": 6 },
+              { "str": 3, "fret": 4, "degree": 7 },
+              { "str": 2, "fret": 2, "degree": 1 },
+              { "str": 2, "fret": 4, "degree": 2 },
+              { "str": 2, "fret": 5, "degree": 3 },
+              { "str": 1, "fret": 2, "degree": 4 },
+              { "str": 1, "fret": 4, "degree": 5 },
+              { "str": 1, "fret": 5, "degree": 6 }
+            ]
+          },
+          {
+            "name": "4/1",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 2 },
+              { "str": 6, "fret": 1, "degree": 3 },
+              { "str": 6, "fret": 3, "degree": 4 },
+              { "str": 5, "fret": 0, "degree": 5 },
+              { "str": 5, "fret": 1, "degree": 6 },
+              { "str": 5, "fret": 3, "degree": 7 },
+              { "str": 4, "fret": 0, "degree": 1 },
+              { "str": 4, "fret": 2, "degree": 2 },
+              { "str": 4, "fret": 3, "degree": 3 },
+              { "str": 3, "fret": 0, "degree": 4 },
+              { "str": 3, "fret": 2, "degree": 5 },
+              { "str": 3, "fret": 3, "degree": 6 },
+              { "str": 2, "fret": 1, "degree": 7 },
+              { "str": 2, "fret": 3, "degree": 1 },
+              { "str": 2, "fret": 5, "degree": 2 },
+              { "str": 1, "fret": 1, "degree": 3 },
+              { "str": 1, "fret": 3, "degree": 4 },
+              { "str": 1, "fret": 5, "degree": 5 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Locrian",
+    "abbr": "loc",
+    "tones": [
+      {
+        "root": "X",
+        "patterns": [
+          {
+            "name": "6/1",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 1 },
+              { "str": 6, "fret": 1, "degree": 2 },
+              { "str": 6, "fret": 3, "degree": 3 },
+              { "str": 5, "fret": 0, "degree": 4 },
+              { "str": 5, "fret": 1, "degree": 5 },
+              { "str": 5, "fret": 3, "degree": 6 },
+              { "str": 4, "fret": 0, "degree": 7 },
+              { "str": 4, "fret": 2, "degree": 1 },
+              { "str": 4, "fret": 3, "degree": 2 },
+              { "str": 3, "fret": 0, "degree": 3 },
+              { "str": 3, "fret": 2, "degree": 4 },
+              { "str": 3, "fret": 3, "degree": 5 },
+              { "str": 2, "fret": 1, "degree": 6 },
+              { "str": 2, "fret": 3, "degree": 7 },
+              { "str": 2, "fret": 5, "degree": 1 },
+              { "str": 1, "fret": 1, "degree": 2 },
+              { "str": 1, "fret": 3, "degree": 3 },
+              { "str": 1, "fret": 5, "degree": 4 }
+            ]
+          },
+          {
+            "name": "6/2",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 7 },
+              { "str": 6, "fret": 2, "degree": 1 },
+              { "str": 6, "fret": 3, "degree": 2 },
+              { "str": 5, "fret": 0, "degree": 3 },
+              { "str": 5, "fret": 2, "degree": 4 },
+              { "str": 5, "fret": 3, "degree": 5 },
+              { "str": 4, "fret": 0, "degree": 6 },
+              { "str": 4, "fret": 2, "degree": 7 },
+              { "str": 4, "fret": 4, "degree": 1 },
+              { "str": 3, "fret": 0, "degree": 2 },
+              { "str": 3, "fret": 2, "degree": 3 },
+              { "str": 3, "fret": 4, "degree": 4 },
+              { "str": 2, "fret": 1, "degree": 5 },
+              { "str": 2, "fret": 3, "degree": 6 },
+              { "str": 2, "fret": 5, "degree": 7 },
+              { "str": 1, "fret": 2, "degree": 1 },
+              { "str": 1, "fret": 3, "degree": 2 },
+              { "str": 1, "fret": 5, "degree": 3 }
+            ]
+          },
+          {
+            "name": "6/4",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 6 },
+              { "str": 6, "fret": 2, "degree": 7 },
+              { "str": 6, "fret": 4, "degree": 1 },
+              { "str": 5, "fret": 0, "degree": 2 },
+              { "str": 5, "fret": 2, "degree": 3 },
+              { "str": 5, "fret": 4, "degree": 4 },
+              { "str": 4, "fret": 0, "degree": 5 },
+              { "str": 4, "fret": 2, "degree": 6 },
+              { "str": 4, "fret": 4, "degree": 7 },
+              { "str": 3, "fret": 1, "degree": 1 },
+              { "str": 3, "fret": 2, "degree": 2 },
+              { "str": 3, "fret": 4, "degree": 3 },
+              { "str": 2, "fret": 2, "degree": 4 },
+              { "str": 2, "fret": 3, "degree": 5 },
+              { "str": 2, "fret": 5, "degree": 6 },
+              { "str": 1, "fret": 2, "degree": 7 },
+              { "str": 1, "fret": 4, "degree": 1 },
+              { "str": 1, "fret": 5, "degree": 2 }
+            ]
+          },
+          {
+            "name": "5/1",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 5 },
+              { "str": 6, "fret": 2, "degree": 6 },
+              { "str": 6, "fret": 4, "degree": 7 },
+              { "str": 5, "fret": 1, "degree": 1 },
+              { "str": 5, "fret": 2, "degree": 2 },
+              { "str": 5, "fret": 4, "degree": 3 },
+              { "str": 4, "fret": 1, "degree": 4 },
+              { "str": 4, "fret": 2, "degree": 5 },
+              { "str": 4, "fret": 4, "degree": 6 },
+              { "str": 3, "fret": 1, "degree": 7 },
+              { "str": 3, "fret": 3, "degree": 1 },
+              { "str": 3, "fret": 4, "degree": 2 },
+              { "str": 2, "fret": 2, "degree": 3 },
+              { "str": 2, "fret": 4, "degree": 4 },
+              { "str": 2, "fret": 5, "degree": 5 },
+              { "str": 1, "fret": 2, "degree": 6 },
+              { "str": 1, "fret": 4, "degree": 7 },
+              { "str": 1, "fret": 6, "degree": 1 }
+            ]
+          },
+          {
+            "name": "5/2",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 4 },
+              { "str": 6, "fret": 1, "degree": 5 },
+              { "str": 6, "fret": 3, "degree": 6 },
+              { "str": 5, "fret": 0, "degree": 7 },
+              { "str": 5, "fret": 2, "degree": 1 },
+              { "str": 5, "fret": 3, "degree": 2 },
+              { "str": 4, "fret": 0, "degree": 3 },
+              { "str": 4, "fret": 2, "degree": 4 },
+              { "str": 4, "fret": 3, "degree": 5 },
+              { "str": 3, "fret": 0, "degree": 6 },
+              { "str": 3, "fret": 2, "degree": 7 },
+              { "str": 3, "fret": 4, "degree": 1 },
+              { "str": 2, "fret": 1, "degree": 2 },
+              { "str": 2, "fret": 3, "degree": 3 },
+              { "str": 2, "fret": 5, "degree": 4 },
+              { "str": 1, "fret": 1, "degree": 5 },
+              { "str": 1, "fret": 3, "degree": 6 },
+              { "str": 1, "fret": 5, "degree": 7 }
+            ]
+          },
+          {
+            "name": "5/4",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 3 },
+              { "str": 6, "fret": 2, "degree": 4 },
+              { "str": 6, "fret": 3, "degree": 5 },
+              { "str": 5, "fret": 0, "degree": 6 },
+              { "str": 5, "fret": 2, "degree": 7 },
+              { "str": 5, "fret": 4, "degree": 1 },
+              { "str": 4, "fret": 0, "degree": 2 },
+              { "str": 4, "fret": 2, "degree": 3 },
+              { "str": 4, "fret": 4, "degree": 4 },
+              { "str": 3, "fret": 0, "degree": 5 },
+              { "str": 3, "fret": 2, "degree": 6 },
+              { "str": 3, "fret": 4, "degree": 7 },
+              { "str": 2, "fret": 2, "degree": 1 },
+              { "str": 2, "fret": 3, "degree": 2 },
+              { "str": 2, "fret": 5, "degree": 3 },
+              { "str": 1, "fret": 2, "degree": 4 },
+              { "str": 1, "fret": 3, "degree": 5 },
+              { "str": 1, "fret": 5, "degree": 6 }
+            ]
+          },
+          {
+            "name": "4/1",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 2 },
+              { "str": 6, "fret": 2, "degree": 3 },
+              { "str": 6, "fret": 4, "degree": 4 },
+              { "str": 5, "fret": 0, "degree": 5 },
+              { "str": 5, "fret": 2, "degree": 6 },
+              { "str": 5, "fret": 4, "degree": 7 },
+              { "str": 4, "fret": 1, "degree": 1 },
+              { "str": 4, "fret": 2, "degree": 2 },
+              { "str": 4, "fret": 4, "degree": 3 },
+              { "str": 3, "fret": 1, "degree": 4 },
+              { "str": 3, "fret": 2, "degree": 5 },
+              { "str": 3, "fret": 4, "degree": 6 },
+              { "str": 2, "fret": 2, "degree": 7 },
+              { "str": 2, "fret": 4, "degree": 1 },
+              { "str": 2, "fret": 5, "degree": 2 },
+              { "str": 1, "fret": 2, "degree": 3 },
+              { "str": 1, "fret": 4, "degree": 4 },
+              { "str": 1, "fret": 5, "degree": 5 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Harmonic Minor",
+    "abbr": "harmin",
+    "tones": [
+      {
+        "root": "X",
+        "patterns": [
+          {
+            "name": "6/1",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 1 },
+              { "str": 6, "fret": 2, "degree": 2 },
+              { "str": 6, "fret": 3, "degree": 3 },
+              { "str": 5, "fret": 0, "degree": 4 },
+              { "str": 5, "fret": 2, "degree": 5 },
+              { "str": 5, "fret": 3, "degree": 6 },
+              { "str": 4, "fret": 1, "degree": 7 },
+              { "str": 4, "fret": 2, "degree": 1 },
+              { "str": 4, "fret": 4, "degree": 2 },
+              { "str": 3, "fret": 0, "degree": 3 },
+              { "str": 3, "fret": 2, "degree": 4 },
+              { "str": 3, "fret": 4, "degree": 5 },
+              { "str": 2, "fret": 1, "degree": 6 },
+              { "str": 2, "fret": 4, "degree": 7 },
+              { "str": 2, "fret": 5, "degree": 1 },
+              { "str": 1, "fret": 2, "degree": 2 },
+              { "str": 1, "fret": 3, "degree": 3 },
+              { "str": 1, "fret": 5, "degree": 4 }
+            ]
+          },
+          {
+            "name": "6/2",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 7 },
+              { "str": 6, "fret": 1, "degree": 1 },
+              { "str": 6, "fret": 3, "degree": 2 },
+              { "str": 5, "fret": -1, "degree": 3 },
+              { "str": 5, "fret": 1, "degree": 4 },
+              { "str": 5, "fret": 3, "degree": 5 },
+              { "str": 4, "fret": -1, "degree": 6 },
+              { "str": 4, "fret": 2, "degree": 7 },
+              { "str": 4, "fret": 3, "degree": 1 },
+              { "str": 3, "fret": 0, "degree": 2 },
+              { "str": 3, "fret": 1, "degree": 3 },
+              { "str": 3, "fret": 3, "degree": 4 },
+              { "str": 2, "fret": 1, "degree": 5 },
+              { "str": 2, "fret": 2, "degree": 6 },
+              { "str": 2, "fret": 5, "degree": 7 },
+              { "str": 1, "fret": 1, "degree": 1 },
+              { "str": 1, "fret": 3, "degree": 2 },
+              { "str": 1, "fret": 4, "degree": 3 }
+            ]
+          },
+          {
+            "name": "6/4",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 6 },
+              { "str": 6, "fret": 3, "degree": 7 },
+              { "str": 6, "fret": 4, "degree": 1 },
+              { "str": 5, "fret": 1, "degree": 2 },
+              { "str": 5, "fret": 2, "degree": 3 },
+              { "str": 5, "fret": 4, "degree": 4 },
+              { "str": 4, "fret": 1, "degree": 5 },
+              { "str": 4, "fret": 2, "degree": 6 },
+              { "str": 4, "fret": 5, "degree": 7 },
+              { "str": 3, "fret": 1, "degree": 1 },
+              { "str": 3, "fret": 3, "degree": 2 },
+              { "str": 3, "fret": 4, "degree": 3 },
+              { "str": 2, "fret": 2, "degree": 4 },
+              { "str": 2, "fret": 4, "degree": 5 },
+              { "str": 2, "fret": 5, "degree": 6 },
+              { "str": 1, "fret": 3, "degree": 7 },
+              { "str": 1, "fret": 4, "degree": 1 },
+              { "str": 1, "fret": 6, "degree": 2 }
+            ]
+          },
+          {
+            "name": "5/1",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 5 },
+              { "str": 6, "fret": 1, "degree": 6 },
+              { "str": 6, "fret": 4, "degree": 7 },
+              { "str": 5, "fret": 0, "degree": 1 },
+              { "str": 5, "fret": 2, "degree": 2 },
+              { "str": 5, "fret": 3, "degree": 3 },
+              { "str": 4, "fret": 0, "degree": 4 },
+              { "str": 4, "fret": 2, "degree": 5 },
+              { "str": 4, "fret": 3, "degree": 6 },
+              { "str": 3, "fret": 1, "degree": 7 },
+              { "str": 3, "fret": 2, "degree": 1 },
+              { "str": 3, "fret": 4, "degree": 2 },
+              { "str": 2, "fret": 1, "degree": 3 },
+              { "str": 2, "fret": 3, "degree": 4 },
+              { "str": 2, "fret": 5, "degree": 5 },
+              { "str": 1, "fret": 1, "degree": 6 },
+              { "str": 1, "fret": 4, "degree": 7 },
+              { "str": 1, "fret": 5, "degree": 1 }
+            ]
+          },
+          {
+            "name": "5/2",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 4 },
+              { "str": 6, "fret": 2, "degree": 5 },
+              { "str": 6, "fret": 3, "degree": 6 },
+              { "str": 5, "fret": 1, "degree": 7 },
+              { "str": 5, "fret": 2, "degree": 1 },
+              { "str": 5, "fret": 4, "degree": 2 },
+              { "str": 4, "fret": 0, "degree": 3 },
+              { "str": 4, "fret": 2, "degree": 4 },
+              { "str": 4, "fret": 4, "degree": 5 },
+              { "str": 3, "fret": 0, "degree": 6 },
+              { "str": 3, "fret": 3, "degree": 7 },
+              { "str": 3, "fret": 4, "degree": 1 },
+              { "str": 2, "fret": 2, "degree": 2 },
+              { "str": 2, "fret": 3, "degree": 3 },
+              { "str": 2, "fret": 5, "degree": 4 },
+              { "str": 1, "fret": 2, "degree": 5 },
+              { "str": 1, "fret": 3, "degree": 6 },
+              { "str": 1, "fret": 6, "degree": 7 }
+            ]
+          },
+          {
+            "name": "5/4",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 3 },
+              { "str": 6, "fret": 2, "degree": 4 },
+              { "str": 6, "fret": 4, "degree": 5 },
+              { "str": 5, "fret": 0, "degree": 6 },
+              { "str": 5, "fret": 3, "degree": 7 },
+              { "str": 5, "fret": 4, "degree": 1 },
+              { "str": 4, "fret": 1, "degree": 2 },
+              { "str": 4, "fret": 2, "degree": 3 },
+              { "str": 4, "fret": 4, "degree": 4 },
+              { "str": 3, "fret": 1, "degree": 5 },
+              { "str": 3, "fret": 2, "degree": 6 },
+              { "str": 3, "fret": 5, "degree": 7 },
+              { "str": 2, "fret": 2, "degree": 1 },
+              { "str": 2, "fret": 4, "degree": 2 },
+              { "str": 2, "fret": 5, "degree": 3 },
+              { "str": 1, "fret": 2, "degree": 4 },
+              { "str": 1, "fret": 4, "degree": 5 },
+              { "str": 1, "fret": 5, "degree": 6 }
+            ]
+          },
+          {
+            "name": "4/1",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 2 },
+              { "str": 6, "fret": 1, "degree": 3 },
+              { "str": 6, "fret": 3, "degree": 4 },
+              { "str": 5, "fret": 0, "degree": 5 },
+              { "str": 5, "fret": 1, "degree": 6 },
+              { "str": 5, "fret": 4, "degree": 7 },
+              { "str": 4, "fret": 0, "degree": 1 },
+              { "str": 4, "fret": 2, "degree": 2 },
+              { "str": 4, "fret": 3, "degree": 3 },
+              { "str": 3, "fret": 0, "degree": 4 },
+              { "str": 3, "fret": 2, "degree": 5 },
+              { "str": 3, "fret": 3, "degree": 6 },
+              { "str": 2, "fret": 2, "degree": 7 },
+              { "str": 2, "fret": 3, "degree": 1 },
+              { "str": 2, "fret": 5, "degree": 2 },
+              { "str": 1, "fret": 1, "degree": 3 },
+              { "str": 1, "fret": 3, "degree": 4 },
+              { "str": 1, "fret": 5, "degree": 5 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Melodic Minor",
+    "abbr": "mermin",
+    "tones": [
+      {
+        "root": "X",
+        "patterns": [
+          {
+            "name": "6/1",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 1 },
+              { "str": 6, "fret": 2, "degree": 2 },
+              { "str": 6, "fret": 3, "degree": 3 },
+              { "str": 5, "fret": 0, "degree": 4 },
+              { "str": 5, "fret": 2, "degree": 5 },
+              { "str": 5, "fret": 4, "degree": 6 },
+              { "str": 4, "fret": 1, "degree": 7 },
+              { "str": 4, "fret": 2, "degree": 1 },
+              { "str": 4, "fret": 4, "degree": 2 },
+              { "str": 3, "fret": 0, "degree": 3 },
+              { "str": 3, "fret": 2, "degree": 4 },
+              { "str": 3, "fret": 4, "degree": 5 },
+              { "str": 2, "fret": 2, "degree": 6 },
+              { "str": 2, "fret": 4, "degree": 7 },
+              { "str": 2, "fret": 5, "degree": 1 },
+              { "str": 1, "fret": 2, "degree": 2 },
+              { "str": 1, "fret": 3, "degree": 3 },
+              { "str": 1, "fret": 5, "degree": 4 }
+            ]
+          },
+          {
+            "name": "6/2",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 7 },
+              { "str": 6, "fret": 1, "degree": 1 },
+              { "str": 6, "fret": 3, "degree": 2 },
+              { "str": 5, "fret": -1, "degree": 3 },
+              { "str": 5, "fret": 1, "degree": 4 },
+              { "str": 5, "fret": 3, "degree": 5 },
+              { "str": 4, "fret": 0, "degree": 6 },
+              { "str": 4, "fret": 2, "degree": 7 },
+              { "str": 4, "fret": 3, "degree": 1 },
+              { "str": 3, "fret": 0, "degree": 2 },
+              { "str": 3, "fret": 1, "degree": 3 },
+              { "str": 3, "fret": 3, "degree": 4 },
+              { "str": 2, "fret": 1, "degree": 5 },
+              { "str": 2, "fret": 3, "degree": 6 },
+              { "str": 2, "fret": 5, "degree": 7 },
+              { "str": 1, "fret": 1, "degree": 1 },
+              { "str": 1, "fret": 3, "degree": 2 },
+              { "str": 1, "fret": 4, "degree": 3 }
+            ]
+          },
+          {
+            "name": "6/4",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 6 },
+              { "str": 6, "fret": 2, "degree": 7 },
+              { "str": 6, "fret": 3, "degree": 1 },
+              { "str": 5, "fret": 0, "degree": 2 },
+              { "str": 5, "fret": 1, "degree": 3 },
+              { "str": 5, "fret": 3, "degree": 4 },
+              { "str": 4, "fret": 0, "degree": 5 },
+              { "str": 4, "fret": 2, "degree": 6 },
+              { "str": 4, "fret": 4, "degree": 7 },
+              { "str": 3, "fret": 0, "degree": 1 },
+              { "str": 3, "fret": 2, "degree": 2 },
+              { "str": 3, "fret": 3, "degree": 3 },
+              { "str": 2, "fret": 1, "degree": 4 },
+              { "str": 2, "fret": 3, "degree": 5 },
+              { "str": 2, "fret": 5, "degree": 6 },
+              { "str": 1, "fret": 2, "degree": 7 },
+              { "str": 1, "fret": 3, "degree": 1 },
+              { "str": 1, "fret": 5, "degree": 2 }
+            ]
+          },
+          {
+            "name": "5/1",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 5 },
+              { "str": 6, "fret": 2, "degree": 6 },
+              { "str": 6, "fret": 4, "degree": 7 },
+              { "str": 5, "fret": 0, "degree": 1 },
+              { "str": 5, "fret": 2, "degree": 2 },
+              { "str": 5, "fret": 3, "degree": 3 },
+              { "str": 4, "fret": 0, "degree": 4 },
+              { "str": 4, "fret": 2, "degree": 5 },
+              { "str": 4, "fret": 4, "degree": 6 },
+              { "str": 3, "fret": 1, "degree": 7 },
+              { "str": 3, "fret": 2, "degree": 1 },
+              { "str": 3, "fret": 4, "degree": 2 },
+              { "str": 2, "fret": 1, "degree": 3 },
+              { "str": 2, "fret": 3, "degree": 4 },
+              { "str": 2, "fret": 5, "degree": 5 },
+              { "str": 1, "fret": 2, "degree": 6 },
+              { "str": 1, "fret": 4, "degree": 7 },
+              { "str": 1, "fret": 5, "degree": 1 }
+            ]
+          },
+          {
+            "name": "5/2",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 4 },
+              { "str": 6, "fret": 2, "degree": 5 },
+              { "str": 6, "fret": 4, "degree": 6 },
+              { "str": 5, "fret": 1, "degree": 7 },
+              { "str": 5, "fret": 2, "degree": 1 },
+              { "str": 5, "fret": 4, "degree": 2 },
+              { "str": 4, "fret": 0, "degree": 3 },
+              { "str": 4, "fret": 2, "degree": 4 },
+              { "str": 4, "fret": 4, "degree": 5 },
+              { "str": 3, "fret": 1, "degree": 6 },
+              { "str": 3, "fret": 3, "degree": 7 },
+              { "str": 3, "fret": 4, "degree": 1 },
+              { "str": 2, "fret": 2, "degree": 2 },
+              { "str": 2, "fret": 3, "degree": 3 },
+              { "str": 2, "fret": 5, "degree": 4 },
+              { "str": 1, "fret": 2, "degree": 5 },
+              { "str": 1, "fret": 4, "degree": 6 },
+              { "str": 1, "fret": 6, "degree": 7 }
+            ]
+          },
+          {
+            "name": "5/4",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 3 },
+              { "str": 6, "fret": 2, "degree": 4 },
+              { "str": 6, "fret": 4, "degree": 5 },
+              { "str": 5, "fret": 1, "degree": 6 },
+              { "str": 5, "fret": 3, "degree": 7 },
+              { "str": 5, "fret": 4, "degree": 1 },
+              { "str": 4, "fret": 1, "degree": 2 },
+              { "str": 4, "fret": 2, "degree": 3 },
+              { "str": 4, "fret": 4, "degree": 4 },
+              { "str": 3, "fret": 1, "degree": 5 },
+              { "str": 3, "fret": 3, "degree": 6 },
+              { "str": 3, "fret": 5, "degree": 7 },
+              { "str": 2, "fret": 2, "degree": 1 },
+              { "str": 2, "fret": 4, "degree": 2 },
+              { "str": 2, "fret": 5, "degree": 3 },
+              { "str": 1, "fret": 2, "degree": 4 },
+              { "str": 1, "fret": 4, "degree": 5 },
+              { "str": 1, "fret": 6, "degree": 6 }
+            ]
+          },
+          {
+            "name": "4/1",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 2 },
+              { "str": 6, "fret": 1, "degree": 3 },
+              { "str": 6, "fret": 3, "degree": 4 },
+              { "str": 5, "fret": 0, "degree": 5 },
+              { "str": 5, "fret": 2, "degree": 6 },
+              { "str": 5, "fret": 4, "degree": 7 },
+              { "str": 4, "fret": 0, "degree": 1 },
+              { "str": 4, "fret": 2, "degree": 2 },
+              { "str": 4, "fret": 3, "degree": 3 },
+              { "str": 3, "fret": 0, "degree": 4 },
+              { "str": 3, "fret": 2, "degree": 5 },
+              { "str": 3, "fret": 4, "degree": 6 },
+              { "str": 2, "fret": 2, "degree": 7 },
+              { "str": 2, "fret": 3, "degree": 1 },
+              { "str": 2, "fret": 5, "degree": 2 },
+              { "str": 1, "fret": 1, "degree": 3 },
+              { "str": 1, "fret": 3, "degree": 4 },
+              { "str": 1, "fret": 5, "degree": 5 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Phrygian Dominant",
+    "abbr": "phrdom",
+    "tones": [
+      {
+        "root": "X",
+        "patterns": [
+          {
+            "name": "6/1",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 1 },
+              { "str": 6, "fret": 1, "degree": 2 },
+              { "str": 6, "fret": 4, "degree": 3 },
+              { "str": 5, "fret": 0, "degree": 4 },
+              { "str": 5, "fret": 2, "degree": 5 },
+              { "str": 5, "fret": 3, "degree": 6 },
+              { "str": 4, "fret": 0, "degree": 7 },
+              { "str": 4, "fret": 2, "degree": 1 },
+              { "str": 4, "fret": 3, "degree": 2 },
+              { "str": 3, "fret": 1, "degree": 3 },
+              { "str": 3, "fret": 2, "degree": 4 },
+              { "str": 3, "fret": 4, "degree": 5 },
+              { "str": 2, "fret": 1, "degree": 6 },
+              { "str": 2, "fret": 3, "degree": 7 },
+              { "str": 2, "fret": 5, "degree": 1 },
+              { "str": 1, "fret": 1, "degree": 2 },
+              { "str": 1, "fret": 4, "degree": 3 },
+              { "str": 1, "fret": 5, "degree": 4 }
+            ]
+          },
+          {
+            "name": "6/2",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 7 },
+              { "str": 6, "fret": 2, "degree": 1 },
+              { "str": 6, "fret": 3, "degree": 2 },
+              { "str": 5, "fret": 1, "degree": 3 },
+              { "str": 5, "fret": 2, "degree": 4 },
+              { "str": 5, "fret": 4, "degree": 5 },
+              { "str": 4, "fret": 0, "degree": 6 },
+              { "str": 4, "fret": 2, "degree": 7 },
+              { "str": 4, "fret": 4, "degree": 1 },
+              { "str": 3, "fret": 0, "degree": 2 },
+              { "str": 3, "fret": 3, "degree": 3 },
+              { "str": 3, "fret": 4, "degree": 4 },
+              { "str": 2, "fret": 2, "degree": 5 },
+              { "str": 2, "fret": 3, "degree": 6 },
+              { "str": 2, "fret": 5, "degree": 7 },
+              { "str": 1, "fret": 2, "degree": 1 },
+              { "str": 1, "fret": 3, "degree": 2 },
+              { "str": 1, "fret": 6, "degree": 3 }
+            ]
+          },
+          {
+            "name": "6/4",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 6 },
+              { "str": 6, "fret": 2, "degree": 7 },
+              { "str": 6, "fret": 4, "degree": 1 },
+              { "str": 5, "fret": 0, "degree": 2 },
+              { "str": 5, "fret": 3, "degree": 3 },
+              { "str": 5, "fret": 4, "degree": 4 },
+              { "str": 4, "fret": 1, "degree": 5 },
+              { "str": 4, "fret": 2, "degree": 6 },
+              { "str": 4, "fret": 4, "degree": 7 },
+              { "str": 3, "fret": 1, "degree": 1 },
+              { "str": 3, "fret": 2, "degree": 2 },
+              { "str": 3, "fret": 5, "degree": 3 },
+              { "str": 2, "fret": 2, "degree": 4 },
+              { "str": 2, "fret": 4, "degree": 5 },
+              { "str": 2, "fret": 5, "degree": 6 },
+              { "str": 1, "fret": 2, "degree": 7 },
+              { "str": 1, "fret": 4, "degree": 1 },
+              { "str": 1, "fret": 5, "degree": 2 }
+            ]
+          },
+          {
+            "name": "5/1",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 5 },
+              { "str": 6, "fret": 1, "degree": 6 },
+              { "str": 6, "fret": 3, "degree": 7 },
+              { "str": 5, "fret": 0, "degree": 1 },
+              { "str": 5, "fret": 1, "degree": 2 },
+              { "str": 5, "fret": 4, "degree": 3 },
+              { "str": 4, "fret": 0, "degree": 4 },
+              { "str": 4, "fret": 2, "degree": 5 },
+              { "str": 4, "fret": 3, "degree": 6 },
+              { "str": 3, "fret": 0, "degree": 7 },
+              { "str": 3, "fret": 2, "degree": 1 },
+              { "str": 3, "fret": 3, "degree": 2 },
+              { "str": 2, "fret": 2, "degree": 3 },
+              { "str": 2, "fret": 3, "degree": 4 },
+              { "str": 2, "fret": 5, "degree": 5 },
+              { "str": 1, "fret": 1, "degree": 6 },
+              { "str": 1, "fret": 3, "degree": 7 },
+              { "str": 1, "fret": 5, "degree": 1 }
+            ]
+          },
+          {
+            "name": "5/2",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 4 },
+              { "str": 6, "fret": 2, "degree": 5 },
+              { "str": 6, "fret": 3, "degree": 6 },
+              { "str": 5, "fret": 0, "degree": 7 },
+              { "str": 5, "fret": 2, "degree": 1 },
+              { "str": 5, "fret": 3, "degree": 2 },
+              { "str": 4, "fret": 1, "degree": 3 },
+              { "str": 4, "fret": 2, "degree": 4 },
+              { "str": 4, "fret": 4, "degree": 5 },
+              { "str": 3, "fret": 0, "degree": 6 },
+              { "str": 3, "fret": 2, "degree": 7 },
+              { "str": 3, "fret": 4, "degree": 1 },
+              { "str": 2, "fret": 1, "degree": 2 },
+              { "str": 2, "fret": 4, "degree": 3 },
+              { "str": 2, "fret": 5, "degree": 4 },
+              { "str": 1, "fret": 2, "degree": 5 },
+              { "str": 1, "fret": 3, "degree": 6 },
+              { "str": 1, "fret": 5, "degree": 7 }
+            ]
+          },
+          {
+            "name": "5/4",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 3 },
+              { "str": 6, "fret": 1, "degree": 4 },
+              { "str": 6, "fret": 3, "degree": 5 },
+              { "str": 5, "fret": -1, "degree": 6 },
+              { "str": 5, "fret": 1, "degree": 7 },
+              { "str": 5, "fret": 3, "degree": 1 },
+              { "str": 4, "fret": -1, "degree": 2 },
+              { "str": 4, "fret": 2, "degree": 3 },
+              { "str": 4, "fret": 3, "degree": 4 },
+              { "str": 3, "fret": 0, "degree": 5 },
+              { "str": 3, "fret": 1, "degree": 6 },
+              { "str": 3, "fret": 3, "degree": 7 },
+              { "str": 2, "fret": 1, "degree": 1 },
+              { "str": 2, "fret": 2, "degree": 2 },
+              { "str": 2, "fret": 5, "degree": 3 },
+              { "str": 1, "fret": 1, "degree": 4 },
+              { "str": 1, "fret": 3, "degree": 5 },
+              { "str": 1, "fret": 4, "degree": 6 }
+            ]
+          },
+          {
+            "name": "4/1",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 2 },
+              { "str": 6, "fret": 3, "degree": 3 },
+              { "str": 6, "fret": 4, "degree": 4 },
+              { "str": 5, "fret": 1, "degree": 5 },
+              { "str": 5, "fret": 2, "degree": 6 },
+              { "str": 5, "fret": 4, "degree": 7 },
+              { "str": 4, "fret": 1, "degree": 1 },
+              { "str": 4, "fret": 2, "degree": 2 },
+              { "str": 4, "fret": 5, "degree": 3 },
+              { "str": 3, "fret": 1, "degree": 4 },
+              { "str": 3, "fret": 3, "degree": 5 },
+              { "str": 3, "fret": 4, "degree": 6 },
+              { "str": 2, "fret": 2, "degree": 7 },
+              { "str": 2, "fret": 4, "degree": 1 },
+              { "str": 2, "fret": 5, "degree": 2 },
+              { "str": 1, "fret": 3, "degree": 3 },
+              { "str": 1, "fret": 4, "degree": 4 },
+              { "str": 1, "fret": 6, "degree": 5 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lydian Dominant",
+    "abbr": "lyddom",
+    "tones": [
+      {
+        "root": "X",
+        "patterns": [
+          {
+            "name": "6/1",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 1 },
+              { "str": 6, "fret": 2, "degree": 2 },
+              { "str": 6, "fret": 4, "degree": 3 },
+              { "str": 5, "fret": 1, "degree": 4 },
+              { "str": 5, "fret": 2, "degree": 5 },
+              { "str": 5, "fret": 4, "degree": 6 },
+              { "str": 4, "fret": 0, "degree": 7 },
+              { "str": 4, "fret": 2, "degree": 1 },
+              { "str": 4, "fret": 4, "degree": 2 },
+              { "str": 3, "fret": 1, "degree": 3 },
+              { "str": 3, "fret": 3, "degree": 4 },
+              { "str": 3, "fret": 4, "degree": 5 },
+              { "str": 2, "fret": 2, "degree": 6 },
+              { "str": 2, "fret": 3, "degree": 7 },
+              { "str": 2, "fret": 5, "degree": 1 },
+              { "str": 1, "fret": 2, "degree": 2 },
+              { "str": 1, "fret": 4, "degree": 3 },
+              { "str": 1, "fret": 6, "degree": 4 }
+            ]
+          },
+          {
+            "name": "6/2",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 7 },
+              { "str": 6, "fret": 2, "degree": 1 },
+              { "str": 6, "fret": 4, "degree": 2 },
+              { "str": 5, "fret": 1, "degree": 3 },
+              { "str": 5, "fret": 3, "degree": 4 },
+              { "str": 5, "fret": 4, "degree": 5 },
+              { "str": 4, "fret": 1, "degree": 6 },
+              { "str": 4, "fret": 2, "degree": 7 },
+              { "str": 4, "fret": 4, "degree": 1 },
+              { "str": 3, "fret": 1, "degree": 2 },
+              { "str": 3, "fret": 3, "degree": 3 },
+              { "str": 3, "fret": 5, "degree": 4 },
+              { "str": 2, "fret": 2, "degree": 5 },
+              { "str": 2, "fret": 4, "degree": 6 },
+              { "str": 2, "fret": 5, "degree": 7 },
+              { "str": 1, "fret": 2, "degree": 1 },
+              { "str": 1, "fret": 4, "degree": 2 },
+              { "str": 1, "fret": 6, "degree": 3 }
+            ]
+          },
+          {
+            "name": "6/4",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 6 },
+              { "str": 6, "fret": 1, "degree": 7 },
+              { "str": 6, "fret": 3, "degree": 1 },
+              { "str": 5, "fret": 0, "degree": 2 },
+              { "str": 5, "fret": 2, "degree": 3 },
+              { "str": 5, "fret": 4, "degree": 4 },
+              { "str": 4, "fret": 0, "degree": 5 },
+              { "str": 4, "fret": 2, "degree": 6 },
+              { "str": 4, "fret": 3, "degree": 7 },
+              { "str": 3, "fret": 0, "degree": 1 },
+              { "str": 3, "fret": 2, "degree": 2 },
+              { "str": 3, "fret": 4, "degree": 3 },
+              { "str": 2, "fret": 2, "degree": 4 },
+              { "str": 2, "fret": 3, "degree": 5 },
+              { "str": 2, "fret": 5, "degree": 6 },
+              { "str": 1, "fret": 1, "degree": 7 },
+              { "str": 1, "fret": 3, "degree": 1 },
+              { "str": 1, "fret": 5, "degree": 2 }
+            ]
+          },
+          {
+            "name": "5/1",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 5 },
+              { "str": 6, "fret": 2, "degree": 6 },
+              { "str": 6, "fret": 3, "degree": 7 },
+              { "str": 5, "fret": 0, "degree": 1 },
+              { "str": 5, "fret": 2, "degree": 2 },
+              { "str": 5, "fret": 4, "degree": 3 },
+              { "str": 4, "fret": 1, "degree": 4 },
+              { "str": 4, "fret": 2, "degree": 5 },
+              { "str": 4, "fret": 4, "degree": 6 },
+              { "str": 3, "fret": 0, "degree": 7 },
+              { "str": 3, "fret": 2, "degree": 1 },
+              { "str": 3, "fret": 4, "degree": 2 },
+              { "str": 2, "fret": 2, "degree": 3 },
+              { "str": 2, "fret": 4, "degree": 4 },
+              { "str": 2, "fret": 5, "degree": 5 },
+              { "str": 1, "fret": 2, "degree": 6 },
+              { "str": 1, "fret": 3, "degree": 7 },
+              { "str": 1, "fret": 5, "degree": 1 }
+            ]
+          },
+          {
+            "name": "5/2",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 4 },
+              { "str": 6, "fret": 1, "degree": 5 },
+              { "str": 6, "fret": 3, "degree": 6 },
+              { "str": 5, "fret": -1, "degree": 7 },
+              { "str": 5, "fret": 1, "degree": 1 },
+              { "str": 5, "fret": 3, "degree": 2 },
+              { "str": 4, "fret": 0, "degree": 3 },
+              { "str": 4, "fret": 2, "degree": 4 },
+              { "str": 4, "fret": 3, "degree": 5 },
+              { "str": 3, "fret": 0, "degree": 6 },
+              { "str": 3, "fret": 1, "degree": 7 },
+              { "str": 3, "fret": 3, "degree": 1 },
+              { "str": 2, "fret": 1, "degree": 2 },
+              { "str": 2, "fret": 3, "degree": 3 },
+              { "str": 2, "fret": 5, "degree": 4 },
+              { "str": 1, "fret": 1, "degree": 5 },
+              { "str": 1, "fret": 3, "degree": 6 },
+              { "str": 1, "fret": 4, "degree": 7 }
+            ]
+          },
+          {
+            "name": "5/4",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 3 },
+              { "str": 6, "fret": 2, "degree": 4 },
+              { "str": 6, "fret": 3, "degree": 5 },
+              { "str": 5, "fret": 0, "degree": 6 },
+              { "str": 5, "fret": 1, "degree": 7 },
+              { "str": 5, "fret": 3, "degree": 1 },
+              { "str": 4, "fret": 0, "degree": 2 },
+              { "str": 4, "fret": 2, "degree": 3 },
+              { "str": 4, "fret": 4, "degree": 4 },
+              { "str": 3, "fret": 0, "degree": 5 },
+              { "str": 3, "fret": 2, "degree": 6 },
+              { "str": 3, "fret": 3, "degree": 7 },
+              { "str": 2, "fret": 1, "degree": 1 },
+              { "str": 2, "fret": 3, "degree": 2 },
+              { "str": 2, "fret": 5, "degree": 3 },
+              { "str": 1, "fret": 2, "degree": 4 },
+              { "str": 1, "fret": 3, "degree": 5 },
+              { "str": 1, "fret": 5, "degree": 6 }
+            ]
+          },
+          {
+            "name": "4/1",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 2 },
+              { "str": 6, "fret": 2, "degree": 3 },
+              { "str": 6, "fret": 4, "degree": 4 },
+              { "str": 5, "fret": 0, "degree": 5 },
+              { "str": 5, "fret": 2, "degree": 6 },
+              { "str": 5, "fret": 3, "degree": 7 },
+              { "str": 4, "fret": 0, "degree": 1 },
+              { "str": 4, "fret": 2, "degree": 2 },
+              { "str": 4, "fret": 4, "degree": 3 },
+              { "str": 3, "fret": 1, "degree": 4 },
+              { "str": 3, "fret": 2, "degree": 5 },
+              { "str": 3, "fret": 4, "degree": 6 },
+              { "str": 2, "fret": 1, "degree": 7 },
+              { "str": 2, "fret": 3, "degree": 1 },
+              { "str": 2, "fret": 5, "degree": 2 },
+              { "str": 1, "fret": 2, "degree": 3 },
+              { "str": 1, "fret": 4, "degree": 4 },
+              { "str": 1, "fret": 5, "degree": 5 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Super Locrian",
+    "abbr": "suploc",
+    "tones": [
+      {
+        "root": "X",
+        "patterns": [
+          {
+            "name": "6/1",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 1 },
+              { "str": 6, "fret": 1, "degree": 2 },
+              { "str": 6, "fret": 3, "degree": 3 },
+              { "str": 5, "fret": -1, "degree": 4 },
+              { "str": 5, "fret": 1, "degree": 5 },
+              { "str": 5, "fret": 3, "degree": 6 },
+              { "str": 4, "fret": 0, "degree": 7 },
+              { "str": 4, "fret": 2, "degree": 1 },
+              { "str": 4, "fret": 3, "degree": 2 },
+              { "str": 3, "fret": 0, "degree": 3 },
+              { "str": 3, "fret": 1, "degree": 4 },
+              { "str": 3, "fret": 3, "degree": 5 },
+              { "str": 2, "fret": 1, "degree": 6 },
+              { "str": 2, "fret": 3, "degree": 7 },
+              { "str": 2, "fret": 5, "degree": 1 },
+              { "str": 1, "fret": 1, "degree": 2 },
+              { "str": 1, "fret": 3, "degree": 3 },
+              { "str": 1, "fret": 4, "degree": 4 }
+            ]
+          },
+          {
+            "name": "6/2",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 7 },
+              { "str": 6, "fret": 2, "degree": 1 },
+              { "str": 6, "fret": 3, "degree": 2 },
+              { "str": 5, "fret": 0, "degree": 3 },
+              { "str": 5, "fret": 1, "degree": 4 },
+              { "str": 5, "fret": 3, "degree": 5 },
+              { "str": 4, "fret": 0, "degree": 6 },
+              { "str": 4, "fret": 2, "degree": 7 },
+              { "str": 4, "fret": 4, "degree": 1 },
+              { "str": 3, "fret": 0, "degree": 2 },
+              { "str": 3, "fret": 2, "degree": 3 },
+              { "str": 3, "fret": 3, "degree": 4 },
+              { "str": 2, "fret": 1, "degree": 5 },
+              { "str": 2, "fret": 3, "degree": 6 },
+              { "str": 2, "fret": 5, "degree": 7 },
+              { "str": 1, "fret": 2, "degree": 1 },
+              { "str": 1, "fret": 3, "degree": 2 },
+              { "str": 1, "fret": 5, "degree": 3 }
+            ]
+          },
+          {
+            "name": "6/4",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 6 },
+              { "str": 6, "fret": 2, "degree": 7 },
+              { "str": 6, "fret": 4, "degree": 1 },
+              { "str": 5, "fret": 0, "degree": 2 },
+              { "str": 5, "fret": 2, "degree": 3 },
+              { "str": 5, "fret": 3, "degree": 4 },
+              { "str": 4, "fret": 0, "degree": 5 },
+              { "str": 4, "fret": 2, "degree": 6 },
+              { "str": 4, "fret": 4, "degree": 7 },
+              { "str": 3, "fret": 1, "degree": 1 },
+              { "str": 3, "fret": 2, "degree": 2 },
+              { "str": 3, "fret": 4, "degree": 3 },
+              { "str": 2, "fret": 1, "degree": 4 },
+              { "str": 2, "fret": 3, "degree": 5 },
+              { "str": 2, "fret": 5, "degree": 6 },
+              { "str": 1, "fret": 2, "degree": 7 },
+              { "str": 1, "fret": 4, "degree": 1 },
+              { "str": 1, "fret": 5, "degree": 2 }
+            ]
+          },
+          {
+            "name": "5/1",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 5 },
+              { "str": 6, "fret": 2, "degree": 6 },
+              { "str": 6, "fret": 4, "degree": 7 },
+              { "str": 5, "fret": 1, "degree": 1 },
+              { "str": 5, "fret": 2, "degree": 2 },
+              { "str": 5, "fret": 4, "degree": 3 },
+              { "str": 4, "fret": 0, "degree": 4 },
+              { "str": 4, "fret": 2, "degree": 5 },
+              { "str": 4, "fret": 4, "degree": 6 },
+              { "str": 3, "fret": 1, "degree": 7 },
+              { "str": 3, "fret": 3, "degree": 1 },
+              { "str": 3, "fret": 4, "degree": 2 },
+              { "str": 2, "fret": 2, "degree": 3 },
+              { "str": 2, "fret": 3, "degree": 4 },
+              { "str": 2, "fret": 5, "degree": 5 },
+              { "str": 1, "fret": 2, "degree": 6 },
+              { "str": 1, "fret": 4, "degree": 7 },
+              { "str": 1, "fret": 6, "degree": 1 }
+            ]
+          },
+          {
+            "name": "5/2",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 4 },
+              { "str": 6, "fret": 2, "degree": 5 },
+              { "str": 6, "fret": 4, "degree": 6 },
+              { "str": 5, "fret": 1, "degree": 7 },
+              { "str": 5, "fret": 3, "degree": 1 },
+              { "str": 5, "fret": 4, "degree": 2 },
+              { "str": 4, "fret": 1, "degree": 3 },
+              { "str": 4, "fret": 2, "degree": 4 },
+              { "str": 4, "fret": 4, "degree": 5 },
+              { "str": 3, "fret": 1, "degree": 6 },
+              { "str": 3, "fret": 3, "degree": 7 },
+              { "str": 3, "fret": 5, "degree": 1 },
+              { "str": 2, "fret": 2, "degree": 2 },
+              { "str": 2, "fret": 4, "degree": 3 },
+              { "str": 2, "fret": 5, "degree": 4 },
+              { "str": 1, "fret": 2, "degree": 5 },
+              { "str": 1, "fret": 4, "degree": 6 },
+              { "str": 1, "fret": 6, "degree": 7 }
+            ]
+          },
+          {
+            "name": "5/4",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 3 },
+              { "str": 6, "fret": 1, "degree": 4 },
+              { "str": 6, "fret": 3, "degree": 5 },
+              { "str": 5, "fret": 0, "degree": 6 },
+              { "str": 5, "fret": 2, "degree": 7 },
+              { "str": 5, "fret": 4, "degree": 1 },
+              { "str": 4, "fret": 0, "degree": 2 },
+              { "str": 4, "fret": 2, "degree": 3 },
+              { "str": 4, "fret": 3, "degree": 4 },
+              { "str": 3, "fret": 0, "degree": 5 },
+              { "str": 3, "fret": 2, "degree": 6 },
+              { "str": 3, "fret": 4, "degree": 7 },
+              { "str": 2, "fret": 2, "degree": 1 },
+              { "str": 2, "fret": 3, "degree": 2 },
+              { "str": 2, "fret": 5, "degree": 3 },
+              { "str": 1, "fret": 1, "degree": 4 },
+              { "str": 1, "fret": 3, "degree": 5 },
+              { "str": 1, "fret": 5, "degree": 6 }
+            ]
+          },
+          {
+            "name": "4/1",
+            "notes": [
+              { "str": 6, "fret": 0, "degree": 2 },
+              { "str": 6, "fret": 2, "degree": 3 },
+              { "str": 6, "fret": 3, "degree": 4 },
+              { "str": 5, "fret": 0, "degree": 5 },
+              { "str": 5, "fret": 2, "degree": 6 },
+              { "str": 5, "fret": 4, "degree": 7 },
+              { "str": 4, "fret": 1, "degree": 1 },
+              { "str": 4, "fret": 2, "degree": 2 },
+              { "str": 4, "fret": 4, "degree": 3 },
+              { "str": 3, "fret": 0, "degree": 4 },
+              { "str": 3, "fret": 2, "degree": 5 },
+              { "str": 3, "fret": 4, "degree": 6 },
+              { "str": 2, "fret": 2, "degree": 7 },
+              { "str": 2, "fret": 4, "degree": 1 },
+              { "str": 2, "fret": 5, "degree": 2 },
+              { "str": 1, "fret": 2, "degree": 3 },
+              { "str": 1, "fret": 3, "degree": 4 },
+              { "str": 1, "fret": 5, "degree": 5 }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
