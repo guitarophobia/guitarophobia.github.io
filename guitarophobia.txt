@@ -31,4 +31,4 @@ Exercise
   ･ 12 フレット離れた 2 種類のポジションが出力されているケースをどうするか?
     どちらも不完全なケースがあるか? どちらも完全なケースがあるか?
   ･ Pentatonic Scale, Whole Tone Scale, Diminished Scale をどうするか?
-  ･ Monospaced の Web フォントを探求する.
+  X Monospaced の Web フォントを探求する.
