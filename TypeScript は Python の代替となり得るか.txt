@@ -1,0 +1,59 @@
+TypeScript は Python の代替となり得るか?
+
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+Deno のインストール (2024-05-14)
+PowerShell から以下を実行する.
+    iwr https://deno.land/x/install/install.ps1 -useb | iex
+この結果
+    C:\Users\ユーザー名\.node\bin\node.exe
+がインストールされ, ユーザーの環境変数 Path に
+    C:\Users\ユーザー名\.node\bin
+が追加される.
+実行モジュールの場所が気に入らなければ移動すれば良い.
+Deno の実行時に
+    C:\Users\ユーザー名\AppData\Local\deno\
+が参照される.
+例えば
+    C:\Users\ユーザー名\AppData\Local\deno\gen\
+配下に ts をコンパイルした js ファイルが作成される.
+アンインストールの手順は見つけられなかったが, 以下で良いのか?
+    実行モジュールを削除する
+    環境変数を削除する
+    C:\Users\ユーザー名\AppData\Local\deno\ を削除する
+
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+TypeScript の type と class と interface (2024-05-20)
+
+Interface は TypeScript が型チェックに使うだけで, JavaScript には反映されない.
+必要なプロパティがあれば良いので･･･
+
+interface Pizza {
+  name: string;
+  toppings: string[];
+}
+
+type PizzaType = {
+  name: string;
+  toppings: string[];
+};
+
+class PizzaClass {
+  constructor(public name: string, public toppings: string[]) {}
+}
+
+function pizzaMaker(pizza: Pizza) {
+  console.log(`name: ${pizza.name}`);
+}
+
+const pizza1: PizzaType = {
+  name: "Margherita",
+  toppings: ["Mozzarella", "Basil"],
+};
+const pizza2 = new PizzaClass("Margherita", [""]);
+
+pizzaMaker(pizza1);
+pizzaMaker(pizza2);
+pizzaMaker({ name: "Margherita", toppings: ["Mozzarella", "Basil"] });
+
+https://ultimatecourses.com/blog/typescript-interfaces-vs-types
+https://ultimatecourses.com/blog/classes-vs-interfaces-in-typescript
